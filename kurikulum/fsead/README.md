@@ -4,8 +4,8 @@
 
 *Hari 1*
 
-1. Teknologi Software
-2. Sistem Operasi: UI, shell, utilities
+1. Teknologi informasi dan teknologi software
+2. Sistem Operasi: UI, shell, utilities, shell script
 
 *Hari 2*
 
