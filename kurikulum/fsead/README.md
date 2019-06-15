@@ -9,9 +9,13 @@
 
 *Hari 2*
 
-1. Git dan GitHub
-2. Git untuk single user
-3. Git untuk *team*
+1. Software engineering, software configuration management, version control. dan distributed version
+control.
+2. Git dan perintah-perintah dasarnya
+3. *Markdown* sebagai format untuk dokumentasi
+3. Git dan *remote repository* (GitHub, GitLab, Assembla, BitBucket)
+4. Git untuk single person development
+5. Git untuk tim pengembang aplikasi
 
 *Hari 3*
 
