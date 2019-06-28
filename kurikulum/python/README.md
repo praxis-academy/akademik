@@ -29,42 +29,43 @@
 1. Struktur data di Python
 2. *Modules* di Python
 3. Input Output di Python
-4. Pengangan errors dan exceptions.
+4. Penanganan *errors dan exceptions*.
 
 *Hari 5*
 
 1. Pola Pikir Obyek
 2. Pemrograman Berorientasi Obyek di Python
+3. *Python standard library*
 
 [Minggu 02](isi/02.md)
 
 *Hari 1*
 
-1. UML, *software design / modeling*, OOP, dan Java
-2. Object Oriented Programming Lanjut di Java
+1. UML, *software design / modeling*, OOP, dan Python
+2. Object Oriented Programming Lanjut di Python
+
 
 *Hari 2*
 
 1. Serialisasi dan de-serialisasi
 2. Serialisasi data: XML dan JSON
-3. Struktur data dasar di Java menggunakan paket *java utility*.
-4. *Java Collections Framework*.
+3. Serialisasi dan de-serialisasi data lainnya: YAML, Protobuf, dan lain-lain
+4. Serialisasi obyek: pickle
 
 *Hari 3*
 
 1. Paradigma *Functional Programming*.
-2. *Functional Programming* di Java
+2. *Functional Programming* di Python
 
 *Hari 4*
 
-1. Unit Testing di Java
-2. JUnit
-3. Gradle dan *unit testing*
+1. Unit Testing di Python
+2. unittest
 
 *Hari 5*
 
 1. Memahami *Concurrent Programming*
-2. *Concurrent Programming* di Java
+2. *Concurrent Programming* di Python
 
 [Minggu 03](isi/03.md)
 
