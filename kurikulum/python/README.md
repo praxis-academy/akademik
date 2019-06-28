@@ -1,6 +1,4 @@
-# BEWARE: BROKEN
-
-# Materi Pembelajaran "Pemrograman Python"
+# Materi Pembelajaran "Python Programming"
 
 [Minggu 01](isi/01.md)
 
@@ -21,25 +19,22 @@
 *Hari 3*
 
 1. Development tools dan ekosistemnya
-2. Dasar-dasar Python:
-    * *Tools dan utilities* di Python.
-    * Konstruksi dasar bahasa pemrograman Java: variabel, konstanta, operator, ekspresi, *statement* / pernyataan, tipe data.
-    * Pernyataan untuk mengatur kendali program
+2. Dasar-dasar Python: 
+    * Instalasi Python / Miniconda.
+    * Konstruksi dasar bahasa pemrograman Python: indentasi, komentar, variabel, konstanta, operator, ekspresi, *statement* / pernyataan, tipe data dasar. 
+    * Pernyataan untuk mengatur alur kendali program
 
 *Hari 4*
 
-1. Pola Pikir Obyek
-2. Dasar-dasar Pemrograman Berorientasi Obyek di Java
-3. Package di Java
-4. *Build tool*: Gradle
-5. *Dynamic typing* dan *static typing*
-6. Penanganan error / *exception*
+1. Struktur data di Python
+2. *Modules* di Python
+3. Input Output di Python
+4. Pengangan errors dan exceptions.
 
 *Hari 5*
 
-1. Annotations
-2. Javadoc
-3. Generics
+1. Pola Pikir Obyek
+2. Pemrograman Berorientasi Obyek di Python
 
 [Minggu 02](isi/02.md)
 
