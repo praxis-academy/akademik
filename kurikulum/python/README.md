@@ -1,4 +1,6 @@
-# Materi Pembelajaran "Full Stack Enterprise Application Developer"
+# BEWARE: BROKEN
+
+# Materi Pembelajaran "Pemrograman Python"
 
 [Minggu 01](isi/01.md)
 
@@ -19,9 +21,8 @@
 *Hari 3*
 
 1. Development tools dan ekosistemnya
-2. Dasar-dasar Java: 
-    * Kompilasi, menjalankan, mempaket dalam bentuk `.jar`.
-    * *Tools dan utilities* di JDK.
+2. Dasar-dasar Python:
+    * *Tools dan utilities* di Python.
     * Konstruksi dasar bahasa pemrograman Java: variabel, konstanta, operator, ekspresi, *statement* / pernyataan, tipe data.
     * Pernyataan untuk mengatur kendali program
 
