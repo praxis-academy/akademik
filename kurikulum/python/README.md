@@ -21,6 +21,8 @@
 1. Development tools dan ekosistemnya
 2. Dasar-dasar Python: 
     * Instalasi Python / Miniconda.
+    * pip dan conda
+    * Instalasi jupyter dan penggunaannya
     * Konstruksi dasar bahasa pemrograman Python: indentasi, komentar, variabel, konstanta, operator, ekspresi, *statement* / pernyataan, tipe data dasar. 
     * Pernyataan untuk mengatur alur kendali program
 
@@ -81,7 +83,6 @@
 
 1. *Database Management System*
 2. Perancangan *database*
-3. JDBC
 4. ORM
 
 *Hari 3*
@@ -89,38 +90,38 @@
 1. NoSQL dan berbagai kategori NoSQL.
 2. NewSQL dan perbedaannya dengan SQL.
 3. MongoDB sebagai *document database*.
-4. Akses MongoDB menggunakan Java.
+4. Akses MongoDB menggunakan Python.
 5. CockroachDB sebagai *database* NewSQL.
-6. Akses CockroachDB menggunakan Java.
+6. Akses CockroachDB menggunakan Python.
 
 *Hari 4*
 
-1. RESTful Endpoint
-2. GraphQL
+1. Python untuk Web
 
 *Hari 5*
 
-1. Arsitektur Software: microservices dan *full stack application*
-2. Framework: Dasar-dasar Micronaut
+1. RESTful Endpoint
+2. GraphQL
 
 [Minggu 04](isi/04.md)
 
 *Hari 1* 
 
-1. Berpindah development tools: step-by-step
-2. Studi kasus perpindahan development tools: dari Java ke peranti pengembangan lainnya (JavaScript, Kotlin, Go, PHP)
-3. Dasar-dasar JavaScript dan Node.js
+1. Python untuk komputasi sains.
+2. SciPy
 
 *Hari 2*
 
-1. JavaScript
+1. Python untuk analisis data.
+2. pandas
 
 *Hari 3*
 
-1. Vue.js
+1. Python untuk visualisasi data.
+2. https://pyviz.org/
 
-*Hari 4*
+*Hari 4 dan 5*
 
-1. Aplikasi Full stack: Micronaut + Vue.js
-2. Aplikasi Full stack: Micronaut + Vue.js + Database
+1. Python untuk sains data (1).
+2. Tensorflow dan Keras
 
