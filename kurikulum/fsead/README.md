@@ -110,13 +110,15 @@
 
 *Hari 1* 
 
-1. Berpindah development tools: step-by-step
-2. Studi kasus perpindahan development tools: dari Java ke peranti pengembangan lainnya (JavaScript, Kotlin, Go, PHP)
-3. Dasar-dasar JavaScript dan Node.js
+1. Perpindahan *development tools*.
+2. Ekosistem JavaScript
+3. Konstruksi dasar JavaScript - Node.js dan JS di browser.
 
 *Hari 2*
 
-1. JavaScript
+1. HTML, CSS, dan DOM
+2. JavaScript untuk Front End
+3. Dasar-dasar Vue.js
 
 *Hari 3*
 
