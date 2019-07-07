@@ -123,9 +123,12 @@
 *Hari 3*
 
 1. Vue.js
+2. Ekosistem Vue.js
 
 *Hari 4*
 
-1. Aplikasi Full stack: Micronaut + Vue.js
-2. Aplikasi Full stack: Micronaut + Vue.js + Database
+1. Arsitektur microservices dan Micronaut Framework.
+2. Akses DBMS di Micronaut Framework.
+3. Micronaut dan service GraphQL.
+4. Integrasi *front end* (Vue.js) dan *back end* di Micronaut.
 
