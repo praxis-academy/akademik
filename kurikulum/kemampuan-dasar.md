@@ -1,6 +1,6 @@
 # Kemampuan Dasar
 
-## Memahami Ruang Lingkup Pengembangan Software*
+## Memahami Ruang Lingkup Pengembangan Software
 
 1. Teknologi informasi dan teknologi software
 2. Metodologi Pengembangan Software
@@ -144,14 +144,12 @@ Materi dan Penjelasan
 Latihan
 ```
 
-1. Buat repo sesuai keterangan pada [panduan umum Praxis Academy](https://github.com/praxis-academy/akademik/blob/master/panduan-umum/isi/01.md). Untuk keperluan ini, buat direktori di repo lokal dengan nama `kemampuan-dasar`. Masukkan hasil pekerjaan di direktori `kemampuan-dasar-1` pada materi **Kemampuan Teknis Dasar 1** di atas ke dalam direktori `kemampuan-dasar` sehingga pada repo lokal anda akan terdapat 2 direktori:
+1. Buat repo sesuai keterangan pada [panduan umum Praxis Academy](https://github.com/praxis-academy/akademik/blob/master/panduan-umum/isi/01.md). Untuk keperluan ini, buat direktori di repo lokal dengan nama `kemampuan-dasar`. Masukkan hasil pekerjaan di direktori `kemampuan-dasar-1` pada materi **Kemampuan Teknis Dasar 1** di atas ke dalam direktori `kemampuan-dasar` sehingga pada repo lokal anda akan terdapat 2 direktori. Setelah itu, push ke *remote repo* di GitHub. Dua direktori yang harus ada pada posisi ini adalah:
 
 ```
 kemampuan-dasar/
 └── kemampuan-dasar-1
 ```
-
-Setelah itu, push ke *remote repo* di GitHub.
 
 2. Praktikkan [Getting Started ini](https://dev.acquia.com/blog/getting-started-collaborative-development-git) bersama rekan. 
 
