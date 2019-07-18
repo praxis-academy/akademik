@@ -151,6 +151,6 @@ kemampuan-dasar/
 └── kemampuan-dasar-1
 ```
 
-2. Untuk praktik berikut ini, kerjakan semuanya di dalam direktori `kemampuan-dasar-2`.
+2. Untuk praktik berikut ini, kerjakan semuanya di dalam direktori `kemampuan-dasar-2` di bawah `kemampuan-dasar`.
     * Praktikkan [Getting Started ini](https://dev.acquia.com/blog/getting-started-collaborative-development-git) bersama rekan. 
     * Praktikkan [Team Collaboration with GitHub](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876) bersama rekan.
