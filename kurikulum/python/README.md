@@ -122,6 +122,6 @@
 
 *Hari 4 dan 5*
 
-1. Python untuk sains data (1).
+1. Python untuk sains data.
 2. Tensorflow dan Keras
 

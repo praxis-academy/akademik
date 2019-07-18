@@ -1,4 +1,4 @@
-# Materi Pembelajaran "Full Stack Enterprise Application Developer"
+# Materi Pembelajaran "Enterprise Full Stack Developer"
 
 [Minggu 01](isi/01.md)
 
