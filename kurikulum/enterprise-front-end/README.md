@@ -16,10 +16,12 @@ berhubungan dengan HTML dan CSS. Referensi berikut ini bisa digunakan:
 
 *Hari 1*
 
-1. Development tools dan ekosistemnya
-2. Dasar-dasar JavaScript: 
-    * Pernyataan untuk mengatur kendali program
-
+1. Development tools dan komponen-kompponennya.
+2. Ekosisitem JavaScript: ES, JS, Node.js, Browser, HTML, CSS.
+3. Dasar-dasar JavaScript: 
+    * JavaScript untuk browser dan di luar browser
+    * Tools dan utilities Node.js
+    * Konstruksi dasar bahasa pemrograman JavaScript
 
 *Hari 2*
 
