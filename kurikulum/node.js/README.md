@@ -80,11 +80,11 @@
 
 1. TBD
 
-*Hari 4 
+*Hari 4* 
 
 1. TBD
 
-* Hari 5*
+*Hari 5*
 
 1. TBD
 
