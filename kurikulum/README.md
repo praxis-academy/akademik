@@ -6,3 +6,5 @@ kelas, pastikan bahwa setiap siswa telah menyelesaikan [materi kemampuan dasar](
 1. [Enterprise Full Stack Developer](enterprise-full-stack/)
 2. [Python Programming](python/)
 3. [Enterprise Front End Developer](enterprise-front-end/)
+4. [Mobile Application Developer](mobile-app-dev/)
+5. [Node.js Programming](node.js/)
