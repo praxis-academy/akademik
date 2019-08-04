@@ -13,27 +13,51 @@ dilakukan.
 *Hari 1: Memulai Dart*
 
 1. Mengenal Dart
-2. Ruang Lingkup aplikasi Dart
+2. Ruang lingkup aplikasi Dart
 3. Instalasi Dart
 4. Dart tools
 5. Konfigurasi IDE.
-6. Konstruksi dasar kode sumber Dart
+6. Konstruksi dasar kode sumber Dart: struktur program Dart, variabel, pengendali alur, komentar,
+   fungsi, pustaka inti (*core libraries*). 
 
-*Hari 2*
+*Hari 2: Sintaksis Dasar Dart*
 
-1. TBD
+1. Struktur dasar dan konsep penting program Dart
+2. Kata kunci (*keywords*)
+3. Lebih lanjut dengan variabel: var, final, const
+4. Tipe data Dart: numbers, strings, booleans, runes, symbols
+5. Fungsi / Function
+6. Operator
+7. Pengendali alur program: if ... else if ... else, *looping* for, while, do ... while, break dan
+   continue, switch dan case, serta assert.
+8. Error dan exception handling
 
-*Hari 3*
+*Hari 3: OOP pada Dart*
 
-1. TBD
+1. Pengertian OOP
+2. Class pada Dart
+3. Konstruktor
+4. Tipe obyek
+5. Variabel *instance*.
+6. Getter dan Setter
+7. Method
+8. Kelas abstrak
+9. Interface
+10. Extend kelas
+11. Mixins
 
-*Hari 4*
+*Hari 4: Generics, Struktur Data dan Collections*
 
-1. TBD
+1. Generics
+2. List
+3. Sets
+4. Maps
 
-*Hari 5*
+*Hari 5: Tooling*
 
-1. TBD
+1. Dart platforms
+2. Command line tools
+3. Pub untuk *package manager*
 
 ## Flutter untuk Mobile Application Development
 
