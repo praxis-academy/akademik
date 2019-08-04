@@ -53,11 +53,13 @@ dilakukan.
 3. Sets
 4. Maps
 
-*Hari 5: Tooling*
+*Hari 5: Asynchronous Programming, Konkurensi, dan Tooling*
 
-1. Dart platforms
-2. Command line tools
-3. Pub untuk *package manager*
+1. Asynchronous programming: pengertian, kelas Future dan Stream.
+2. Konkurensi: pengertian, penggunaan *isolates*
+3. Dart platforms
+4. Command line tools
+5. Pub untuk *package manager*
 
 ## Flutter untuk Mobile Application Development
 
