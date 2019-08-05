@@ -60,6 +60,7 @@ dilakukan.
 3. Dart platforms
 4. Command line tools
 5. Pub untuk *package manager*
+6. Effective Dart
 
 ## Flutter untuk Mobile Application Development
 
