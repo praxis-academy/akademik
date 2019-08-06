@@ -1,14 +1,23 @@
-# Materi Pembelajaran "Node.js Programming"
+# Materi Pembelajaran "JavaScript - Node.js Programming"
 
 [Minggu 01](isi/01.md)
 
-*Hari 1*
+*Hari 1: Pengantar dan Setup Lingkungan Pengembangan JavaScript - Node.js*
 
-1. TBD
+1. Sejarah singkat JavaScript.
+2. Standar spesifikasi JavaScript serta ECMAScript 
+3. Ruang lingkup aplikasi JavaScript
+4. JavaScript di browser
+5. Pengantar Node.js: ruang lingkup aplikasi
+6. Instalasi Node.js dan pendukungnya (IDE, peranti pengembangan lain).
+7. Mengenal npm dan yarn
+8. Struktur program JavaScript dengan Node.js
 
-*Hari 2*
+*Hari 2: Sintaksis Dasar JavaScript*
 
-1. TBD
+1. Proses interpreter dan compiler
+2. dan bisa membuat kode sumber JavaScript serta menjalankannya menggunakan Node.js
+3. Memahami sintaksis 
 
 *Hari 3*
 
