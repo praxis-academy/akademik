@@ -34,7 +34,7 @@ dilakukan.
 
 *Hari 3: OOP pada Dart*
 
-1. Pengertian OOP
+1. Pengertian OOP dan pola pikir obyek
 2. Class pada Dart
 3. Konstruktor
 4. Tipe obyek
