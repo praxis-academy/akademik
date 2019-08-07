@@ -6,6 +6,12 @@ dipelajari disini khusus untuk Android. Penyesuaian untuk [IoS](https://www.appl
 [Fuchsia](https://fuchsia.dev/) (jika sudah dirilis) diharapkan tidak terlalu banyak dan akan mudah
 dilakukan.
 
+## Resources
+
+1. Situs web [Dart Examples](https://sites.google.com/site/dartlangexamples/home) berisi banyak
+contoh-contoh bahasa pemrograman Dart.
+2. [Spesifikasi Dart](https://dart.dev/guides/language/spec)
+
 ## Menguasai Bahasa Pemrograman Dart
 
 [Minggu 01](isi/01.md)
