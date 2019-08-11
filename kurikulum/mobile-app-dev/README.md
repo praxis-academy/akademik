@@ -72,9 +72,14 @@ contoh-contoh bahasa pemrograman Dart.
 
 [Minggu 02](isi/02.md)
 
-*Hari 1*
+*Hari 1: Memulai Flutter*
 
-1. TBD
+1. Pengenalan Flutter
+2. Instalasi Flutter
+3. *Setup* dan konfigurasi peranti pengembangan
+4. Mulai membangun aplikasi
+5. Mengenal *Material Design*
+6. Contoh aplikasi
 
 *Hari 2*
 
