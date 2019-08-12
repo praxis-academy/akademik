@@ -171,6 +171,37 @@ kemampuan-dasar/
             └── sleep-example.sh
 ```
 
-2. Untuk praktik berikut ini, kerjakan semuanya di dalam direktori `kemampuan-dasar-2` di bawah `kemampuan-dasar`. Cara mengerjakannya adalah dengan mempraktikkan dan kemudian meng-capture / meng-copy hasil dari praktik tersebut ke dalam file markdown. Untuk praktik pertama, beri nama `praktik-1.md`. Untuk praktik kedua, beri nama `praktik-2.md`. Jika di praktik tersebut diminta untuk membuat repo, buatlah juga di account anda, tidak perlu berada dalam repo praxis-academy. Buat file `README.md` yang berisi nama-nama repo di account GitHub anda yang berhubungan dengan praktik-praktik tersebut. Praktik yang harus dikerjakan adalah: 
-    * Praktik 1: [Getting Started ini](https://dev.acquia.com/blog/getting-started-collaborative-development-git) bersama rekan. 
-    * Praktik 2: [Team Collaboration with GitHub](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876) bersama rekan.
+2. Untuk praktik berikut ini, kerjakan semuanya di dalam direktori `kemampuan-dasar-2` di bawah `kemampuan-dasar`. Cara mengerjakannya adalah dengan mempraktikkan dan kemudian meng-capture / meng-copy hasil dari praktik tersebut ke dalam file [markdown](https://guides.github.com/features/mastering-markdown/). Jika di praktik tersebut diminta untuk membuat repo, buatlah juga di account anda, tidak perlu berada dalam repo praxis-academy. Buat file `README.md` yang berisi nama-nama repo di account GitHub anda yang berhubungan dengan praktik-praktik tersebut. Praktik yang harus dikerjakan adalah: 
+    * Praktik 1: [Getting Started ini](https://dev.acquia.com/blog/getting-started-collaborative-development-git) bersama rekan. Nama file hasil untuk praktik ini adalah `praktik-1.md`.
+    * Praktik 2: [Team Collaboration with GitHub](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876) bersama rekan. Nama file hasil untuk praktik ini adalah `praktik-2.md`.
+
+## Hasil Akhir
+
+Setelah menyelesaikan kemampuan dasar teknis 1 dan 2 di atas, struktur direktori dan hasil repo anda
+adalah sebagai berikut:
+
+```bash
+kemampuan-dasar/
+├── kemampuan-dasar-1
+│   ├── kasus
+│   │   ├── cari-java.sh
+│   │   └── process-killer.sh
+│   └── latihan
+│       ├── cmdline.txt
+│       ├── env.txt
+│       ├── grub.txt
+│       ├── kernel-linux.txt
+│       └── shellscripts
+│           ├── first.sh
+│            ....
+│            ....
+│            .... seluruh shell script yang dicoba
+│            ....
+│            ....
+│ 
+│           └── sleep-example.sh
+└── kemampuan-dasar-2
+    ├── praktik-1.md
+    ├── praktik-2.md
+    └── README.md
+```
