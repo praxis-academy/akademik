@@ -8,6 +8,15 @@ Beberapa referensi yang bisa digunakan untuk mempelajari JavaScript, antara lain
 2. [JavaScript for Impatient Programmer](https://exploringjs.com/impatient-js/toc.html)
 3. [You Don't Know JS - Book Series](https://github.com/getify/You-Dont-Know-JS)
 
+## JavaScript / ECMAScript Sebagai Bahasa Pemrograman
+
+Materi pada minggu ini lebih menekankan pada JavaScript sebagai suatu bahasa pemrograman serta
+berbagai *tooling* dasar ekosisitem Node.js. Tujuan pembelajaran pada minggu ini adalah membentuk
+logika pemrograman serta teknik-teknik pemrograman pada berbagai paradigma pemrograman. Materi pada
+minggu ini tidak ditujukan untuk membuat *full blown application*, tetapi lebih pada aspek
+pemrograman sekaligus membiasakan diri menggunakan Node.js sebagai interpreter JavaScript /
+ECMAScript dan *tooling* yang disertakan pada distribusi Node.js.
+
 [Minggu 01](isi/01.md)
 
 *Hari 1: Ekosistem dan Pemrograman Dasar JavaScript*
@@ -48,11 +57,23 @@ Beberapa referensi yang bisa digunakan untuk mempelajari JavaScript, antara lain
 4. *Promise* di JavaScript
 5. *async/await* di JavaScript
 
+## Framework dan Tooling
+
+Materi pada minggu ini mulai menekankan pada berbagai framework serta *tooling* di luar *tooling*
+standar di Node.js yang sangat membantu dalam membangun aplikasi. Pada miniggu ini, sudah mulai
+dibuat aplikasi dengan menggunakan *framework* yang umum digunakan serta berbagai *tooling* yang
+tidak ada dalam distribusi standar Node.js
+
 [Minggu 02](isi/02.md)
 
-*Hari 1:*
+*Hari 1: Mengenal Framework Express*
 
-1. TBD
+1. Pengenalan Express
+2. Instalasi dan konfigurasi Express
+3. Struktur dasar aplikasi dengan Express
+4. Express *generator*
+5. Memahami *routing* di Express
+6. Mengelola *static files*.
 
 *Hari 2*
 
