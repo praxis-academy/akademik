@@ -72,14 +72,16 @@ Materi dan Penjelasan
 Latihan
 ```
 
-1. Boot laptop masing-masing, perhatikan proses booting dari awal, jika muncul Grub, usahakan melihat parameter dari Grub tersebut. Cari informasi di Internet tentang parameter Grub tersebut.
-2. Cari informasi tentang software yang ada di laptop anda: display manager yang digunakan, window manager yang digunakan, desktop environment yang digunakan, serta shell apa yang digunakan. Dari mana bisa mengetahui informasi tersebut?
-3. Cari lokasi dari kernel Linux, sebutkan file-file yang terkait dan kegunaannya.
-4. Masuk ke *terminal / comsole* dan kerjakan beberapa perintah berikut melalui *command line / shell*: 
-    * buat direktori $HOME/praxis/minggu-01/hari-01
-    * silahkan coba beberapa perintah di [Guru99](https://www.guru99.com/must-know-linux-commands.html) dan [E-Guide - PDF](https://cse.yeditepe.edu.tr/~ayildiz/attachments/linux_commands_eguide.pdf).
+**Catatan**: semua hasil pada latihan ini disimpan pada direktori `$HOME/praxis/kemampuan-dasar-1/latihan`.
+
+1. Boot laptop masing-masing, perhatikan proses booting dari awal, jika muncul Grub, usahakan melihat parameter dari Grub tersebut. Cari informasi di Internet tentang parameter Grub tersebut. Simpan hasil anda pada file teks biasa dengan nama file `grub.txt`.
+2. Cari informasi tentang software yang ada di laptop anda: display manager yang digunakan, window manager yang digunakan, desktop environment yang digunakan, serta shell apa yang digunakan. Dari mana bisa mengetahui informasi tersebut? Tulis jawaban pada file teks biasa dengan nama file `env.txt`.
+3. Cari lokasi dari kernel Linux, sebutkan file-file yang terkait dan kegunaannya. Tulis jawaban
+   pada file teks biasa dengan nama file `kernel-linux.txt`.
+4. Masuk ke *terminal / console* dan kerjakan beberapa perintah berikut melalui *command line / shell*: 
+    * silahkan coba beberapa perintah di [Guru99](https://www.guru99.com/must-know-linux-commands.html) dan [E-Guide - PDF](https://cse.yeditepe.edu.tr/~ayildiz/attachments/linux_commands_eguide.pdf), minimal 10 perintah.
     * tulis hasil dari masing-masing perintah tersebut ke dalam file `cmdline.txt` (gunakan copy paste dari shell)
-5. Silahkan coba [30 contoh shell script](https://linuxhint.com/30_bash_script_examples/), masukkan semua file-file yang dihasilkan di direktori $HOME/praxis/minggu-01/hari-01/30shellscript.
+5. Untuk latihan ini, letakkan hasil pada direktori `$HOME/praxis/kemampuan-dasar-1/latihan/shellscripts`: silahkan coba [30 contoh shell script](https://linuxhint.com/30_bash_script_examples/).
 
 ```
 Kasus
@@ -92,15 +94,16 @@ Referensi:
 
 Selesaikan kasus-kasus berikut.
 
-0. Semua hasil disimpan pada $HOME/praxis/kemampuan-dasar-1/kasus
-1. Buat shell script untuk melihat daftar file pada suatu direktori (termasuk direktori anak-anaknya) dan jika terdapat file dengan ekstensi .java - tampilkan tulisan "Ada file Java pada direktori {nama direktori}". Hasil eksekusi (misalnya):
+**Catatan**: Semua hasil pengerjaan kasus ini disimpan pada `$HOME/praxis/kemampuan-dasar-1/kasus`
+
+1. Buat shell script `cari-java.sh` untuk melihat daftar file pada suatu direktori (termasuk direktori anak-anaknya) dan jika terdapat file dengan ekstensi `.java` - tampilkan tulisan "`Ada file Java pada direktori {nama direktori}`". Hasil eksekusi (misalnya):
 
 ```bash
-$ cari.sh $HOME/src
+$ cari-java.sh $HOME/src
 Ada file Java pada direktori /home/bpdp/src/hari-01
 ```
 
-2. Buat shell script untuk menanyakan suatu nama program (misalnya `firefox`), setelah itu mencari PID dari program tersebut dan jika PID program tersebut ada, maka program tersebut akan dimatikan. Saran: gunakan perintah-perintah `ps`, `grep`, `awk`, dan `kill`.
+2. Buat shell script `process-killer.sh` untuk menanyakan suatu nama program (misalnya `firefox`), setelah itu mencari PID dari program tersebut dan jika PID program tersebut ada, maka program tersebut akan dimatikan. Saran: gunakan perintah-perintah `ps`, `grep`, `awk`, dan `kill`.
 
 ## Kemampuan Teknis Dasar 2: Source Code Management - Git dan GitHub
 
@@ -144,11 +147,28 @@ Materi dan Penjelasan
 Latihan
 ```
 
-1. Buat repo sesuai keterangan pada [panduan umum Praxis Academy](https://github.com/praxis-academy/akademik/blob/master/panduan-umum/isi/01.md). Untuk keperluan ini, buat direktori di repo lokal dengan nama `kemampuan-dasar`. Masukkan hasil pekerjaan di direktori `kemampuan-dasar-1` pada materi **Kemampuan Teknis Dasar 1** di atas ke dalam direktori `kemampuan-dasar` sehingga pada repo lokal anda akan terdapat 2 direktori. Setelah itu, push ke *remote repo* di GitHub. Dua direktori yang harus ada pada posisi ini adalah:
+1. Buat repo sesuai keterangan pada [panduan umum Praxis Academy](https://github.com/praxis-academy/akademik/blob/master/panduan-umum/isi/01.md). Untuk keperluan ini, buat direktori di repo lokal dengan nama `kemampuan-dasar`. Setelah itu, masukkan hasil pekerjaan yang telah anda kerjakan pada materi **Kemampuan Teknis Dasar 1** di atas ke direktori `kemampuan-dasar-1` dalam direktori `kemampuan-dasar` sehingga pada repo lokal anda akan terdapat 2 direktori. Setelah itu, push ke *remote repo* di GitHub. Struktur direktori dan berbagai file yang harus ada pada posisi ini adalah:
 
 ```
 kemampuan-dasar/
 └── kemampuan-dasar-1
+    ├── kasus
+    │   ├── cari-java.sh
+    │   └── process-killer.sh
+    └── latihan
+        ├── cmdline.txt
+        ├── env.txt
+        ├── grub.txt
+        ├── kernel-linux.txt
+        └── shellscripts
+            ├── echo_example.sh
+            ├── first.sh
+            ....
+            ....
+            .... seluruh shell script yang dicoba
+            ....
+            ....
+            └── sleep-example.sh
 ```
 
 2. Untuk praktik berikut ini, kerjakan semuanya di dalam direktori `kemampuan-dasar-2` di bawah `kemampuan-dasar`. Cara mengerjakannya adalah dengan mempraktikkan dan kemudian meng-capture / meng-copy hasil dari praktik tersebut ke dalam file markdown. Untuk praktik pertama, beri nama `praktik-1.md`. Untuk praktik kedua, beri nama `praktik-2.md`. Jika di praktik tersebut diminta untuk membuat repo, buatlah juga di account anda, tidak perlu berada dalam repo praxis-academy. Buat file `README.md` yang berisi nama-nama repo di account GitHub anda yang berhubungan dengan praktik-praktik tersebut. Praktik yang harus dikerjakan adalah: 
