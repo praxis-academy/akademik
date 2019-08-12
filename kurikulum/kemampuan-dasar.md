@@ -147,7 +147,7 @@ Materi dan Penjelasan
 Latihan
 ```
 
-1. Buat repo sesuai keterangan pada [panduan umum Praxis Academy](https://github.com/praxis-academy/akademik/blob/master/panduan-umum/isi/01.md). Untuk keperluan ini, buat direktori di repo lokal dengan nama `kemampuan-dasar`. Setelah itu, masukkan hasil pekerjaan yang telah anda kerjakan pada materi **Kemampuan Teknis Dasar 1** di atas ke direktori `kemampuan-dasar-1` dalam direktori `kemampuan-dasar` sehingga pada repo lokal anda akan terdapat 2 direktori. Setelah itu, push ke *remote repo* di GitHub. Struktur direktori dan berbagai file yang harus ada pada posisi ini adalah:
+1. Buat repo sesuai keterangan pada dengan nama `praxis-academy`. Untuk keperluan pengerjaan kemampuan dasar ini, buat direktori di repo lokal dengan nama `kemampuan-dasar`. Setelah itu, masukkan hasil pekerjaan yang telah anda kerjakan pada materi **Kemampuan Teknis Dasar 1** di atas ke direktori `kemampuan-dasar-1` dalam direktori `kemampuan-dasar` sehingga pada repo lokal anda akan terdapat 2 direktori. Setelah itu, push ke *remote repo* di GitHub. Struktur direktori dan berbagai file yang harus ada pada posisi ini adalah:
 
 ```
 kemampuan-dasar/
@@ -172,8 +172,8 @@ kemampuan-dasar/
 ```
 
 2. Untuk praktik berikut ini, kerjakan semuanya di dalam direktori `kemampuan-dasar-2` di bawah `kemampuan-dasar`. Cara mengerjakannya adalah dengan mempraktikkan dan kemudian meng-capture / meng-copy hasil dari praktik tersebut ke dalam file [markdown](https://guides.github.com/features/mastering-markdown/). Jika di praktik tersebut diminta untuk membuat repo, buatlah juga di account anda, tidak perlu berada dalam repo praxis-academy. Buat file `README.md` yang berisi nama-nama repo di account GitHub anda yang berhubungan dengan praktik-praktik tersebut. Praktik-praktik yang harus dikerjakan adalah: 
-    * [Getting Started](https://dev.acquia.com/blog/getting-started-collaborative-development-git) bersama rekan. Nama file hasil untuk praktik ini adalah `praktik-1.md`.
-    * [Team Collaboration with GitHub](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876) bersama rekan. Nama file hasil untuk praktik ini adalah `praktik-2.md`.
+    * [Getting Started](https://dev.acquia.com/blog/getting-started-collaborative-development-git). Nama file hasil untuk praktik ini adalah `praktik-1.md`.
+    * [Team Collaboration with GitHub](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876). Nama file hasil untuk praktik ini adalah `praktik-2.md`.
 
 ## Hasil Akhir
 
