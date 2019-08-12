@@ -177,8 +177,7 @@ kemampuan-dasar/
 
 ## Hasil Akhir
 
-Setelah menyelesaikan kemampuan dasar teknis 1 dan 2 di atas, struktur direktori dan hasil repo anda
-adalah sebagai berikut:
+Setelah menyelesaikan kemampuan dasar teknis 1 dan 2 di atas, struktur direktori dan file di repo hasil pekerjaan anda adalah sebagai berikut:
 
 ```bash
 kemampuan-dasar/
