@@ -171,9 +171,9 @@ kemampuan-dasar/
             └── sleep-example.sh
 ```
 
-2. Untuk praktik berikut ini, kerjakan semuanya di dalam direktori `kemampuan-dasar-2` di bawah `kemampuan-dasar`. Cara mengerjakannya adalah dengan mempraktikkan dan kemudian meng-capture / meng-copy hasil dari praktik tersebut ke dalam file [markdown](https://guides.github.com/features/mastering-markdown/). Jika di praktik tersebut diminta untuk membuat repo, buatlah juga di account anda, tidak perlu berada dalam repo praxis-academy. Buat file `README.md` yang berisi nama-nama repo di account GitHub anda yang berhubungan dengan praktik-praktik tersebut. Praktik yang harus dikerjakan adalah: 
-    * Praktik 1: [Getting Started ini](https://dev.acquia.com/blog/getting-started-collaborative-development-git) bersama rekan. Nama file hasil untuk praktik ini adalah `praktik-1.md`.
-    * Praktik 2: [Team Collaboration with GitHub](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876) bersama rekan. Nama file hasil untuk praktik ini adalah `praktik-2.md`.
+2. Untuk praktik berikut ini, kerjakan semuanya di dalam direktori `kemampuan-dasar-2` di bawah `kemampuan-dasar`. Cara mengerjakannya adalah dengan mempraktikkan dan kemudian meng-capture / meng-copy hasil dari praktik tersebut ke dalam file [markdown](https://guides.github.com/features/mastering-markdown/). Jika di praktik tersebut diminta untuk membuat repo, buatlah juga di account anda, tidak perlu berada dalam repo praxis-academy. Buat file `README.md` yang berisi nama-nama repo di account GitHub anda yang berhubungan dengan praktik-praktik tersebut. Praktik-praktik yang harus dikerjakan adalah: 
+    * [Getting Started](https://dev.acquia.com/blog/getting-started-collaborative-development-git) bersama rekan. Nama file hasil untuk praktik ini adalah `praktik-1.md`.
+    * [Team Collaboration with GitHub](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876) bersama rekan. Nama file hasil untuk praktik ini adalah `praktik-2.md`.
 
 ## Hasil Akhir
 
