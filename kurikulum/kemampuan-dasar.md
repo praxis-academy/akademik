@@ -198,7 +198,6 @@ kemampuan-dasar/
 │            .... seluruh shell script yang dicoba
 │            ....
 │            ....
-│ 
 │           └── sleep-example.sh
 └── kemampuan-dasar-2
     ├── praktik-1.md
