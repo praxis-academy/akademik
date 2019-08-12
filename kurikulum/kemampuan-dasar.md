@@ -143,11 +143,27 @@ Materi dan Penjelasan
 10. [Pull request](https://help.github.com/en/articles/about-pull-requests) untuk repo di GitHub milik sendiri, [merging](https://help.github.com/en/articles/merging-a-pull-request), kemudian sinkronisasi ke lokal repo di komputer.
 11. [Menggunakan Github untuk kolaborasi tim](https://dev.acquia.com/blog/getting-started-collaborative-development-git).
 
+**Persiapan**
+
+Buat repo di account Github anda dengan nama `praxis-academy`. Setelah itu inisialisasi repo tersebut di komputer lokal anda. Repo ini yang akan menjadi hasil dari kemampuan dasar anda. URL dari repo anda ini seharusnya adalah `https://github.com/username/praxis-academy`:
+
+1. Kerjakan [petunjuk pembuatan repo dari Github
+   ini](https://help.github.com/en/articles/create-a-repo). Cukup kerjakan langkah 1 - 6 saja,
+   setelah itu berhenti pada saat repo telah dibuat. Untuk langkah 5, jangan mengaktifkan *checkbox*
+   **Initialize this repository with a README**. Untuk selanjutnya, ini akan kita sebut sebagai
+   **repo GitHub**.
+2. Di komputer lokal, kerjakan (lokasi direktori bebas, asal hak akses memenuhi - bisa create dir,
+   file, dan seterusnya - lokasi yang anda pilih akan disebut sebagai $LOKASI):
+    * git clone https://github.com/username/praxis-academy
+    * untuk selanjutnya, lokasi direktori $LOKASI/praxis-academy ini kita sebut sebagai **repo lokal**.
+3. Latihan dan kasus berikut seharusnya dikerjakan di repo lokal dan hasilnya di-push ke repo
+   Github.
+
 ```
 Latihan
 ```
 
-1. [Buat repo](https://help.github.com/en/articles/create-a-repo) dengan nama `praxis-academy` pada account Github anda. Untuk keperluan pengerjaan kemampuan dasar ini, buat direktori di repo lokal dengan nama `kemampuan-dasar`. Setelah itu, masukkan hasil pekerjaan yang telah anda kerjakan pada materi **Kemampuan Teknis Dasar 1** di atas ke direktori `kemampuan-dasar-1` dalam direktori `kemampuan-dasar` sehingga pada repo lokal anda akan terdapat 2 direktori. Setelah itu, push ke *remote repo* di GitHub. Struktur direktori dan berbagai file yang harus ada pada posisi ini adalah:
+1. Untuk keperluan pengerjaan kemampuan dasar ini, buat direktori di repo lokal dengan nama `kemampuan-dasar`. Setelah itu, masukkan hasil pekerjaan yang telah anda kerjakan pada materi **Kemampuan Teknis Dasar 1** di atas ke direktori `kemampuan-dasar-1` dalam direktori `kemampuan-dasar` sehingga pada repo lokal anda akan terdapat 2 direktori. Setelah itu, push ke repo GitHub. Struktur direktori dan berbagai file yang harus ada pada posisi ini adalah:
 
 ```
 kemampuan-dasar/
@@ -177,7 +193,7 @@ kemampuan-dasar/
 
 ## Hasil Akhir
 
-Setelah menyelesaikan kemampuan dasar teknis 1 dan 2 di atas, struktur direktori dan file di repo hasil pekerjaan anda adalah sebagai berikut:
+Setelah menyelesaikan kemampuan dasar teknis 1 dan 2 di atas, struktur direktori dan file di repo hasil pekerjaan anda (baik repo lokal maupun repo GitHub) adalah sebagai berikut:
 
 ```bash
 kemampuan-dasar/
