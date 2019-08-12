@@ -147,7 +147,7 @@ Materi dan Penjelasan
 Latihan
 ```
 
-1. Buat repo dengan nama `praxis-academy` pada account Github anda. Untuk keperluan pengerjaan kemampuan dasar ini, buat direktori di repo lokal dengan nama `kemampuan-dasar`. Setelah itu, masukkan hasil pekerjaan yang telah anda kerjakan pada materi **Kemampuan Teknis Dasar 1** di atas ke direktori `kemampuan-dasar-1` dalam direktori `kemampuan-dasar` sehingga pada repo lokal anda akan terdapat 2 direktori. Setelah itu, push ke *remote repo* di GitHub. Struktur direktori dan berbagai file yang harus ada pada posisi ini adalah:
+1. [Buat repo](https://help.github.com/en/articles/create-a-repo) dengan nama `praxis-academy` pada account Github anda. Untuk keperluan pengerjaan kemampuan dasar ini, buat direktori di repo lokal dengan nama `kemampuan-dasar`. Setelah itu, masukkan hasil pekerjaan yang telah anda kerjakan pada materi **Kemampuan Teknis Dasar 1** di atas ke direktori `kemampuan-dasar-1` dalam direktori `kemampuan-dasar` sehingga pada repo lokal anda akan terdapat 2 direktori. Setelah itu, push ke *remote repo* di GitHub. Struktur direktori dan berbagai file yang harus ada pada posisi ini adalah:
 
 ```
 kemampuan-dasar/
