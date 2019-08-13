@@ -75,9 +75,10 @@ tidak ada dalam distribusi standar Node.js
 5. Memahami *routing* di Express
 6. Mengelola *static files*.
 
-*Hari 2*
+*Hari 2: Express dan MVC*
 
-1. TBD
+1. Memahami pola MVC
+2. Komponen MVC di Express
 
 *Hari 3*
 
