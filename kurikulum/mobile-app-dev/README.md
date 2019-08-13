@@ -81,9 +81,11 @@ contoh-contoh bahasa pemrograman Dart.
 5. Mengenal *Material Design*
 6. Contoh aplikasi
 
-*Hari 2*
+*Hari 2: Mengenal Widgets dan Layout*
 
-1. TBD
+1. Pengertian *widgets*
+2. Layout *widgets* untuk aplikasi Flutter
+3. Lebih lanjut dengan interaktifitas aplikasi Flutter
 
 *Hari 3*
 
