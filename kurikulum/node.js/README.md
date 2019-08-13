@@ -80,11 +80,16 @@ tidak ada dalam distribusi standar Node.js
 1. Memahami pola MVC
 2. Komponen MVC di Express
 
-*Hari 3*
+*Hari 3: Routing dan Handler pada Express*
 
-1. TBD
+1. Pengertian *routing*
+2. *Routing* dan *handler*
+3. *Routes* dan HTTP *methods*.
+4. *Routes* dan *regular expression*
+5. *Route* dan parameter dari *requests*
+6. *Response methods*
 
-*Hari 4*
+*Hari 4: *
 
 1. TBD
 
