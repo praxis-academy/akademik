@@ -87,9 +87,14 @@ contoh-contoh bahasa pemrograman Dart.
 2. Layout *widgets* untuk aplikasi Flutter
 3. Lebih lanjut dengan interaktifitas aplikasi Flutter
 
-*Hari 3*
+*Hari 3: Assets dan Navigasi*
 
-1. TBD
+1. Memahami *assets*, baik berupa *images* maupun bukan *images*
+2. Pengelolaan *assets*
+3. Ikon aplikasi
+4. *Launch screen*
+5. Memahami navigasi
+6. Mengelola *routes*
 
 *Hari 4*
 
