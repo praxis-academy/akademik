@@ -103,9 +103,12 @@ contoh-contoh bahasa pemrograman Dart.
 3. *Staggered animations*
 4. Widget di Flutter untuk animasi dan *motion*.
 
-*Hari 5*
+*Hari 5: UI Lanjut - Slivers dan Gestures**
 
-1. TBD
+1. Pengertian dan jenis-jenis *slivers*
+2. Mengelola *sliver* di Flutter
+3. Pengertian *gestures*
+4. Mengelola *gestures* di Flutter 
 
 [Minggu 03](isi/03.md)
 
