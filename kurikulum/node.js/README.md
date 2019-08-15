@@ -97,29 +97,31 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 
 *Hari 5: Middleware*
 
-1. TBD
+1. Pengertian *Middleware*
+2. Mengepa perlu *middleware*
+3. Tipe-tipe *middleware*
 
 ## Akses Basis Data
 
 [Minggu 03](isi/03.md)
 
-*Hari 1*
+*Hari 1: SQL dan MariaDB*
 
 1. TBD
 
-*Hari 2*
+*Hari 2: Sequelize ORM*
 
 1. 
 
-*Hari 3*
+*Hari 3: NOSQL dan MongoDB*
 
 1. TBD
 
-*Hari 4*
+*Hari 4: Mongoose ODM**
 
 1. TBD
 
-*Hari 5*
+*Hari 5: Integrasi SQL/ORM - NOSQL/ODM ke Express*
 
 1. 
 
@@ -127,23 +129,25 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 
 [Minggu 04](isi/04.md)
 
-*Hari 1* 
+*Hari 1: RESTful Endpoint* 
 
 1. TBD
 
-*Hari 2*
+*Hari 2: GraphSQL*
 
 1. TBD
 
-*Hari 3*
+*Hari 3: WebSocket*
 
 1. TBD
 
-*Hari 4* 
+*Hari 4: Microservices* 
 
 1. TBD
 
-*Hari 5*
+## Testing dan Tooling
+
+*Hari 5: Testing dan Tooling Node.js*
 
 1. TBD
 
