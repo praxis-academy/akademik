@@ -96,9 +96,12 @@ contoh-contoh bahasa pemrograman Dart.
 5. Memahami navigasi
 6. Mengelola *routes*
 
-*Hari 4*
+*Hari 4: Animasi*
 
-1. TBD
+1. Dasar-dasar animasi di Flutter
+2. *Hero animations*
+3. *Staggered animations*
+4. Widget di Flutter untuk animasi dan *motion*.
 
 *Hari 5*
 
