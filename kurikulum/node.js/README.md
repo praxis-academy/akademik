@@ -57,12 +57,10 @@ ECMAScript dan *tooling* yang disertakan pada distribusi Node.js.
 4. *Promise* di JavaScript
 5. *async/await* di JavaScript
 
-## Framework dan Tooling
+## Web Framework: Express
 
-Materi pada minggu ini mulai menekankan pada berbagai framework serta *tooling* di luar *tooling*
-standar di Node.js yang sangat membantu dalam membangun aplikasi. Pada miniggu ini, sudah mulai
-dibuat aplikasi dengan menggunakan *framework* yang umum digunakan serta berbagai *tooling* yang
-tidak ada dalam distribusi standar Node.js
+Materi pada minggu ini mulai menekankan pada framework Express. Node.js menyediakan berbagai [fungsi pustaka standar default](https://nodejs.org/docs/latest/api/) antara lain HTTP server, tetapi biasanya masih memerlukan pustaka framework
+yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami Express.
 
 [Minggu 02](isi/02.md)
 
@@ -89,13 +87,19 @@ tidak ada dalam distribusi standar Node.js
 5. *Route* dan parameter dari *requests*
 6. *Response methods*
 
-*Hari 4: *
+*Hari 4: Penanganan Error dan Template Engine*
+
+1. Error dan penanganannya
+2. Memahami cara kerja *template engine*
+3. Konfigurasi *template engine*
+4. Lebih lanjut dengan Pug
+5. Membuat *template engine* sendiri
+
+*Hari 5: Middleware*
 
 1. TBD
 
-*Hari 5*
-
-1. TBD
+## Akses Basis Data
 
 [Minggu 03](isi/03.md)
 
@@ -118,6 +122,8 @@ tidak ada dalam distribusi standar Node.js
 *Hari 5*
 
 1. 
+
+## Lebih Lanjut dengan Node.js Sebagai Back End
 
 [Minggu 04](isi/04.md)
 
