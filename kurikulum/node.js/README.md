@@ -107,11 +107,22 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 
 *Hari 1: SQL dan MariaDB*
 
-1. TBD
+1. Mengenal MariaDB
+2. Instalasi MariaDB
+3. Konfigurasi MariaDB
+4. Perancangan Database
+5. SQL: DDL dan DML
+6. Mengakses MariaDB dari Node.js
 
 *Hari 2: Sequelize ORM*
 
-1. 
+1. ORM dan Sequelize
+2. Instalasi Sequelize
+3. Koneksi ke MariaDB
+4. Tipe data
+5. Model
+6. Query
+7. Transactions
 
 *Hari 3: NOSQL dan MongoDB*
 
