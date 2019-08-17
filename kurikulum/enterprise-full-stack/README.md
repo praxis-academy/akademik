@@ -126,7 +126,7 @@
 2. Promise
 3. Async/Await
 
-*Hari 3: Error Handling, Manipulasi DOM*
+*Hari 3: Error Handling, Manipulasi DOM, Dasar-dasar Vue.js*
 
 1. Error dan Exception Handling
 2. Pengantar Manipulasi DOM Menggunakan JavaScript
