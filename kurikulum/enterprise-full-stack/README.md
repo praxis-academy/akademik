@@ -4,20 +4,6 @@
 
 *Hari 1*
 
-1. Teknologi informasi dan teknologi software
-2. Sistem Operasi: UI, shell, utilities, shell script
-
-*Hari 2*
-
-1. Software engineering, software configuration management, version control. dan distributed version control.
-2. Git dan perintah-perintah dasarnya
-3. *Markdown* sebagai format untuk dokumentasi
-4. Git dan *remote repository* (GitHub, GitLab, Assembla, BitBucket)
-5. Git untuk single person development
-6. Git untuk tim pengembang aplikasi
-
-*Hari 3*
-
 1. Development tools dan ekosistemnya
 2. Dasar-dasar Java: 
     * Kompilasi, menjalankan, mempaket dalam bentuk `.jar`.
@@ -25,7 +11,7 @@
     * Konstruksi dasar bahasa pemrograman Java: variabel, konstanta, operator, ekspresi, *statement* / pernyataan, tipe data.
     * Pernyataan untuk mengatur kendali program
 
-*Hari 4*
+*Hari 2*
 
 1. Pola Pikir Obyek
 2. Dasar-dasar Pemrograman Berorientasi Obyek di Java
@@ -34,45 +20,43 @@
 5. *Dynamic typing* dan *static typing*
 6. Penanganan error / *exception*
 
-*Hari 5*
+*Hari 3*
 
 1. Annotations
 2. Javadoc
 3. Generics
 
-[Minggu 02](isi/02.md)
-
-*Hari 1*
+*Hari 4*
 
 1. UML, *software design / modeling*, OOP, dan Java
 2. Object Oriented Programming Lanjut di Java
 
-*Hari 2*
+*Hari 5*
 
 1. Serialisasi dan de-serialisasi
 2. Serialisasi data: XML dan JSON
 3. Struktur data dasar di Java menggunakan paket *java utility*.
 4. *Java Collections Framework*.
 
-*Hari 3*
+[Minggu 02](isi/02.md)
+
+*Hari 1*
 
 1. Paradigma *Functional Programming*.
 2. *Functional Programming* di Java
 
-*Hari 4*
+*Hari 2*
 
 1. Unit Testing di Java
 2. JUnit
 3. Gradle dan *unit testing*
 
-*Hari 5*
+*Hari 3*
 
 1. Memahami *Concurrent Programming*
 2. *Concurrent Programming* di Java
 
-[Minggu 03](isi/03.md)
-
-*Hari 1*
+*Hari 4*
 
 1. Pengertian *software design patterns*
 2. Penggunaan *software design patterns* dalam pembuatan software.
@@ -80,14 +64,16 @@
 4. *Software design patterns* di Java.
 5. *Dependency Injection*.
 
-*Hari 2*
+*Hari 5*
 
 1. *Database Management System*
 2. Perancangan *database*
 3. JDBC
 4. ORM
 
-*Hari 3*
+[Minggu 03](isi/03.md)
+
+*Hari 1*
 
 1. NoSQL dan berbagai kategori NoSQL.
 2. NewSQL dan perbedaannya dengan SQL.
@@ -96,36 +82,69 @@
 5. CockroachDB sebagai *database* NewSQL.
 6. Akses CockroachDB menggunakan Java.
 
-*Hari 4*
+*Hari 2*
 
 1. RESTful Endpoint
 2. GraphQL
 
-*Hari 5*
+*Hari 3*
 
 1. Arsitektur Software: microservices dan *full stack application*
 2. Framework: Dasar-dasar Micronaut
 
+*Hari 4: Ekosistem dan Pemrograman Dasar JavaScript*
+
+1. Development tools dan komponen-kompponennya.
+2. Ekosistem JavaScript: ES, JS, Node.js, Browser, HTML, CSS.
+3. Dasar-dasar JavaScript: 
+    * JavaScript untuk browser dan di luar browser
+    * Tools dan utilities 
+    * Konstruksi dasar bahasa pemrograman JavaScript
+
+*Hari 5: Function dan Struktur Data di JavaScript*
+
+1. Function di JavaScript
+2. Obyek
+3. Array
+4. Iterables
+5. Map dan Set
+6. WeakMap dan WeakSet
+7. Date dan Time
+
 [Minggu 04](isi/04.md)
 
-*Hari 1* 
 
-1. Perpindahan *development tools*.
-2. Ekosistem JavaScript
-3. Konstruksi dasar JavaScript - Node.js dan JS di browser.
+*Hari 1: Paradigma Pemrograman di JavaScript*
 
-*Hari 2*
+1. Memahami OOP
+2. OOP di JavaScript: Prototype-based dan Class-based
+3. Functional Programming
 
-1. HTML, CSS, dan DOM
-2. JavaScript untuk Front End
-3. Dasar-dasar Vue.js
+*Hari 2: Asynchronous Programming di JavaScript*
 
-*Hari 3*
+1. Callback
+2. Promise
+3. Async/Await
 
-1. Vue.js
-2. Ekosistem Vue.js
+*Hari 3: Error Handling, Manipulasi DOM*
 
-*Hari 4*
+1. Error dan Exception Handling
+2. Pengantar Manipulasi DOM Menggunakan JavaScript
+3. Node, CSS, dan Event DOM
+4. Dasar-dasar Vue.js 
+
+*Hari 4: Lebih Lanjut Dengan Vue.js*
+
+1. Vue.js Essentials
+2. Components
+3. Transitions
+4. Animations
+5. Reusability and Compositions
+6. Tooling
+7. Scaling Up
+8. Ekosistem Vue.js
+
+*Hari 5*
 
 1. Arsitektur microservices dan Micronaut Framework.
 2. Akses DBMS di Micronaut Framework.
