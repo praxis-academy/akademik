@@ -107,7 +107,7 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 
 *Hari 1: SQL dan MariaDB*
 
-1. Mengenal MariaDB
+1. Mengenal SQL dan MariaDB
 2. Instalasi MariaDB
 3. Konfigurasi MariaDB
 4. Perancangan Database
@@ -126,15 +126,28 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 
 *Hari 3: NOSQL dan MongoDB*
 
-1. TBD
+1. Mengenal NOSQL dan MongoDB
+2. Instalasi MongoDB
+3. Konfigurasi MongoDB
+4. Mengenal shell mongo
+5. Model data
+6. Operasi CRUD 
+7. Mengakses MongoDB dari Node.js
 
 *Hari 4: Mongoose ODM**
 
-1. TBD
+1. ODM dan Mongoose
+2. Instalasi Mongoose
+3. Koneksi ke MongoDB
+4. Schema
+5. Model
+6. *Docouments*
+7. Query
 
 *Hari 5: Integrasi SQL/ORM - NOSQL/ODM ke Express*
 
-1. 
+1. Integrasi MariaDB ke Express
+2. Integrasi MongoDB ke Express 
 
 ## Lebih Lanjut dengan Node.js Sebagai Back End
 
