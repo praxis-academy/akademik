@@ -114,43 +114,46 @@ contoh-contoh bahasa pemrograman Dart.
 
 *Hari 1: State Management*
 
-1. TBD
+1. Memahami pentingnya pengelolaan *state*
+2. *Declarative programming* dan pengelolaan *state*
+3. *Ephemeral state* dan *app / shared state*
+4. Berbagai kemungkinan pengelolaan *state*
 
-*Hari 2*
+*Hari 2: Serialisasi JSON*
 
 1. 
 
-*Hari 3*
+*Hari 3: Mengakses Back End as a Service Menggunakan Firebase*
 
 1. TBD
 
-*Hari 4*
+*Hari 4: Aksesibilitas*
 
 1. TBD
 
-*Hari 5*
+*Hari 5: Internasionalisasi Aplikasi*
 
 1. 
 
 [Minggu 04](isi/04.md)
 
-*Hari 1* 
+*Hari 1: Platform Specific Code di Android* 
 
 1. TBD
 
-*Hari 2*
+*Hari 2: Paket dan Plugin*
 
 1. TBD
 
-*Hari 3*
+*Hari 3: Testing dan Optimasi*
 
 1. TBD
 
-*Hari 4* 
+*Hari 4: Deployment* 
 
 1. TBD
 
-*Hari 5*
+*Hari 5: Continuous Delivery Menggunakan *fastlane**
 
 1. TBD
 
