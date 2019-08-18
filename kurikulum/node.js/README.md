@@ -107,7 +107,7 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 
 *Hari 1: SQL dan MariaDB*
 
-1. Mengenal SQL dan MariaDB
+1. Mengenal DBMS, SQL, dan MariaDB
 2. Instalasi MariaDB
 3. Konfigurasi MariaDB
 4. Perancangan Database
