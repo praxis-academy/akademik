@@ -124,9 +124,9 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 6. Query
 7. Transactions
 
-*Hari 3: NOSQL dan MongoDB*
+*Hari 3: NoSQL dan MongoDB*
 
-1. Mengenal NOSQL dan MongoDB
+1. Mengenal NoSQL dan MongoDB
 2. Instalasi MongoDB
 3. Konfigurasi MongoDB
 4. Mengenal shell mongo
@@ -144,7 +144,7 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 6. *Docouments*
 7. Query
 
-*Hari 5: Integrasi SQL/ORM - NOSQL/ODM ke Express*
+*Hari 5: Integrasi SQL/ORM - NoSQL/ODM ke Express*
 
 1. Integrasi MariaDB ke Express
 2. Integrasi MongoDB ke Express 

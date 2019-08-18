@@ -112,7 +112,7 @@ contoh-contoh bahasa pemrograman Dart.
 
 [Minggu 03](isi/03.md)
 
-*Hari 1*
+*Hari 1: State Management*
 
 1. TBD
 
