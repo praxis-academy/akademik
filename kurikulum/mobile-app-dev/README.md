@@ -121,7 +121,10 @@ contoh-contoh bahasa pemrograman Dart.
 
 *Hari 2: Serialisasi JSON*
 
-1. 
+1. Memahami JSON
+2. Metode serialiasi JSON di Flutter
+3. Parse JSON 
+4. Parse JSON di proses latar belakang
 
 *Hari 3: Mengakses Back End as a Service Menggunakan Firebase*
 
