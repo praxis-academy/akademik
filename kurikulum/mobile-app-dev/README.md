@@ -128,7 +128,9 @@ contoh-contoh bahasa pemrograman Dart.
 
 *Hari 3: Mengakses Back End as a Service Menggunakan Firebase*
 
-1. TBD
+1. Back End as a Service
+2. Layanan Firebase
+3. Mengakses layanan Firebase menggunakan Flutter
 
 *Hari 4: Aksesibilitas*
 
