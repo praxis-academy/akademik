@@ -134,7 +134,9 @@ contoh-contoh bahasa pemrograman Dart.
 
 *Hari 4: Aksesibilitas*
 
-1. TBD
+1. Aksesibilitas: pengertian dan gambaran umum
+2. Fitur aksesibilitas Android
+3. Aksesibilitas di Android dari sisi developer
 
 *Hari 5: Internasionalisasi Aplikasi*
 
