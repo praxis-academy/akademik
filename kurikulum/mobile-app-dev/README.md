@@ -140,7 +140,8 @@ contoh-contoh bahasa pemrograman Dart.
 
 *Hari 5: Internasionalisasi Aplikasi*
 
-1. 
+1. Gambaran umum internasionalisasi dan lokalisasi
+2. Internasionalisasi aplikasi pada Flutter
 
 [Minggu 04](isi/04.md)
 
