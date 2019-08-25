@@ -155,7 +155,9 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 
 *Hari 1: RESTful Endpoint* 
 
-1. TBD
+1. API dan Web API
+2. Arsitektur REST
+3. Implementasi RESTful API menggunakan Express
 
 *Hari 2: GraphSQL*
 
@@ -171,7 +173,7 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 
 ## Testing dan Tooling
 
-*Hari 5: Testing dan Tooling Node.js*
+*Hari 5: Testing dan Tooling di Node.js*
 
 1. TBD
 
