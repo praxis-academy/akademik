@@ -147,7 +147,8 @@ contoh-contoh bahasa pemrograman Dart.
 
 *Hari 1: Platform Specific Code di Android* 
 
-1. TBD
+1. Channel
+2. Implementasi channel pada *platform specific code* di Android
 
 *Hari 2: Paket dan Plugin*
 
