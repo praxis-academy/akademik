@@ -152,7 +152,9 @@ contoh-contoh bahasa pemrograman Dart.
 
 *Hari 2: Paket dan Plugin*
 
-1. TBD
+1. Paket di Dart dan Flutter
+2. Menggunakan paket / plugin di Flutter
+3. Membuat paket / plugin di Flutter
 
 *Hari 3: Testing dan Optimasi*
 
