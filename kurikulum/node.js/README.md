@@ -159,9 +159,11 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 2. Arsitektur REST
 3. Implementasi RESTful API menggunakan Express
 
-*Hari 2: GraphSQL*
+*Hari 2: GraphQL*
 
-1. TBD
+1. Gambaran umum GraphQL
+2. GraphQL dan Web API lainnya
+3. Implementasi GraphQL di Node.js
 
 *Hari 3: WebSocket*
 
