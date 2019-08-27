@@ -158,7 +158,11 @@ contoh-contoh bahasa pemrograman Dart.
 
 *Hari 3: Testing dan Optimasi*
 
-1. TBD
+1. *Debugging Tools* untuk Flutter
+2. Logging
+3. Nodel *build* dari FLutter
+4. Testing
+5. Profiling
 
 *Hari 4: Deployment* 
 
