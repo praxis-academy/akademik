@@ -167,7 +167,9 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 
 *Hari 3: WebSocket*
 
-1. TBD
+1. Gambaran umum WebSocket
+2. Cara kerja WebSocket
+3. Implementasi WebSocket di Node.js
 
 *Hari 4: Microservices* 
 
