@@ -173,7 +173,10 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 
 *Hari 4: Microservices* 
 
-1. TBD
+1. Arsitektur software dan *microservices*
+2. Implementasi di Node.js:
+    * Tanpa framework
+    * Menggunakan framework: Moleculer
 
 ## Testing dan Tooling
 
