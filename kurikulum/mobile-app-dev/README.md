@@ -166,7 +166,8 @@ contoh-contoh bahasa pemrograman Dart.
 
 *Hari 4: Deployment* 
 
-1. TBD
+1. *Flutter flavors*
+2. Deployment aplikasi Android
 
 *Hari 5: Continuous Delivery Menggunakan *fastlane**
 
