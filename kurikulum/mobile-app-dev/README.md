@@ -171,5 +171,7 @@ contoh-contoh bahasa pemrograman Dart.
 
 *Hari 5: Continuous Delivery Menggunakan *fastlane**
 
-1. TBD
+1. Memahami CD (Continuous Delivery)
+2. Instalasi dan konfigurasi *fastlane*
+3. CD di FLutter menggunakan *fastlaen*.
 
