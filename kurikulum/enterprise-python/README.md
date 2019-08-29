@@ -62,7 +62,7 @@
 4. *Software design patterns* di Python.
 5. *Dependency Injection*.
 
-*Hari 5: DBMS, SQL, dan ORM*
+*Hari 5: DBMS: SQL dan ORM*
 
 1. *Database Management System*
 2. Perancangan *database*
