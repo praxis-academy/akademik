@@ -182,5 +182,13 @@ yang lebih terintegrasi. Minggu ini merupakan masa pembelajarn untuk mendalami E
 
 *Hari 5: Testing dan Tooling di Node.js*
 
-1. TBD
+1. Gambaran umum tentang software testing
+2. Kategori level software testing:
+    * Unit testing
+    * Integration Testing
+3. Unit testing pada Node.js
+4. Integration testing pada Node.js
+5. Berbagai peranti pengembangan dan tooling di Node.js:
+    * Babeljs
+    * PM2
 
