@@ -28,18 +28,40 @@ Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 3. Dasar-dasar JavaScript: 
     * JavaScript untuk browser dan di luar browser
     * Tools dan utilities 
-    * Konstruksi dasar bahasa pemrograman JavaScript
+    * Pengenalan bahasa pemrograman JavaScript: sintaksis dasar, komentar, variabel, tipe data,
+        ekspresi, operator, pengenalan obyek.
 
-*Hari 2: Function / Fungsi di JavaScript*
+*Hari 2: Konstruksi Dasar JavaScript*
+
+1. Pengandali alur:
+    * if .. else
+    * switch
+    * try ... catch ... throw
+2. Iterasi dan *looping*
+    * for
+    * while
+    * do ... while
+    * break/continue
+    * for ... in
+    * for ... of
+
+*Hari 3: Function / Fungsi di JavaScript*
 
 1. Pengertian fungsi
 2. Definisi dan pemanggilan fungsi
 3. Ruang lingkup variabel
 4. *Nested functions* dan *closure*
 3. Fungsi *generator*
-4. Arrow function
+4. Fungsi *arrow*
 
-*Hari 3: Struktur Data di JavaScript*
+*Hari 4: String dan Regular Expression*
+
+1. Obyek String di JavaScript
+2. Gambaran umum RegExp
+3. Pola dan RegExp
+4. Karakter-karakter RegExp dan penggunaannya
+
+*Hari 5: Struktur Data di JavaScript*
 
 1. Obyek
 2. Array
@@ -48,12 +70,19 @@ Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 5. WeakMap dan WeakSet
 6. Date dan Time
 
-*Hari 4: Paradigma Pemrograman di JavaScript: OOP*
+[Minggu 02](isi/02.md)
+
+*Hari 1: Paradigma Pemrograman di JavaScript: OOP (1)*
 
 1. Memahami OOP
-2. OOP di JavaScript: Prototype-based dan Class-based
+2. OOP di JavaScript: Prototype-based
+3. Prototype-based OOP di JavaScript
 
-*Hari 5: Paradigma Pemrograman di JavaScript: Functional Programming*
+*Hari 2: Paradigma Pemrograman di JavaScript: OOP (2)*
+
+1. Class-based OOP di JavaScript
+
+*Hari 3: Paradigma Pemrograman di JavaScript: Functional Programming*
 
 1. Gambaran umum *functional programming*
 2. *Side effects*
@@ -62,74 +91,66 @@ Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 5. Rekursi dan *functional programming*
 6. *Currying*
 
-[Minggu 02](isi/02.md)
-
-*Hari 1: Asynchronous Programming di JavaScript*
+*Hari 4: Asynchronous Programming di JavaScript*
 
 1. Callback
 2. Promise
 3. Async/Await
 
-*Hari 2: Error Handling, Manipulasi DOM*
+*hari 5: JavaScript Modules*
+
+1. Gambaran umum implementasi *modules* di JavaScript
+
+[Minggu 03](isi/03.md)
+
+*Hari 1: Error Handling*
 
 1. Error dan Exception Handling
-2. Pengantar Manipulasi DOM Menggunakan JavaScript
 
-*Hari 3: Lebih Lanjut dengan DOM dan JavaScript, Pengenalan Vue.js*
+*Hari 2: Web API*
+
+1. Gambaran umum Web API
+
+*Hari 3: Manipulasi DOM*
+
+1. Pengantar Manipulasi DOM Menggunakan JavaScript
+
+*Hari 4: DOM Lanjut*
 
 1. Node, CSS, dan Event DOM
-2. Dasar-dasar Vue.js 
 
-*Hari 4: Lebih Lanjut Dengan Vue.js*
+*Hari 5: Pengenalan Vue.js*
 
-1. Vue.js Essentials
-2. Components
-3. Transitions
-4. Animations
-5. Reusability and Compositions
-6. Tooling
-7. Scaling Up
-8. Ekosistem Vue.js
+1. Dasar-dasar Vue.js 
+2. Vue.js Essentials
 
-*Hari 5: single-spa untuk Micro Frontends*
+[Minggu 04](isi/04.md)
+
+*Hari 1: Lebih Lanjut Dengan Vue.js (1)*
+
+1. Components
+2. Transitions
+3. Animations
+
+*Hari 2: Lebih Lanjut Dengan Vue.js (1)*
+
+1. Reusability and Compositions
+2. Tooling
+3. Scaling Up
+4. Ekosistem Vue.js
+
+*Hari 3: Just Enough React*
+
+1. Gambaran umum React
+
+*Hari 4: single-spa untuk Micro Frontends*
 
 1. Arsitektur Micro Frontends
 2. Memahami single-spa
 3. Implementasi Arsitektur Micro Frontends Menggunakan React, Vue.js, dan single-spa
 
-[Minggu 03](isi/03.md)
+*Hari 5: JavaScript Front End Tooling*
 
-*Hari 1: *
-
-
-*Hari 1: *
-
-
-*Hari 1: *
-
-
-*Hari 1: *
-
-
-*Hari 1: *
-
-
-[Minggu 04](isi/04.md)
-
-*Hari 1: *
-
-
-*Hari 1: *
-
-
-*Hari 1: *
-
-
-*Hari 1: *
-
-
-*Hari 1: *
-
-
-
+1. Gambaran umum
+2. Tooling untuk *JavaScript Front End Developer*
 
