@@ -27,7 +27,7 @@ Materi dan Penjelasan
 
 1. Halaman [Wikipedia - Information Technology](https://en.wikipedia.org/wiki/Information_technology), serta komponen-komponen dari TI dengan penekanan lebih pada [software](https://en.wikipedia.org/wiki/Software).
 2. Halaman [StackExchange tentang perbedaan informatics dengan computer science](https://cs.stackexchange.com/questions/81408/whats-the-difference-between-computer-science-and-informatics).
-3. Halaman [Wikipedia - Software Development](https://en.wikipedia.org/wiki/Software_development) memberikan penjelasan umum tentang aktivitas, model, serta hal-hal lain yang terkait dengan *software development*. Dengan mempelajari bagian ini, siswa diharapkan memahami bahwa *software development* merupakan aktivitas yang kompleks dan memerlukan berbagai macam *roles* / peran.
+3. Halaman [Wikipedia - Software Development](https://en.wikipedia.org/wiki/Software_development) memberikan penjelasan umum tentang aktivitas, model, serta hal-hal lain yang terkait dengan *software development*. Dengan mempelajari bagian ini, siswa diharapkan memahami bahwa *software development* merupakan aktivitas yang kompleks dan memerlukan berbagai macam *roles* / peran. Penerapan dari *engineering* ke dalam aktivitas *software development* ini disebut dengan [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering)
 4. Halaman [Wikipedia - Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development) membahas hal yang lebih spesifik dari *software development*, yaitu salah satu model / metodologi yang digunakan untuk membangun software.
 5. Halaman [Wikipedia - Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) membahas tentang salah satu *process framework* yang termasuk dalam metodologi Agile. 
 6. Halaman [Wikipedia - XP](https://en.wikipedia.org/wiki/Extreme_programming) membahas tentang salah satu *process framework* yang termasuk dalam metodologi Agile.
@@ -49,30 +49,67 @@ Materi dan Penjelasan
 
 1. Cara software bekerja
 2. Ekosistem sistem operasi saat ini
-3. Komponen-komponen SO dan SO Linux
-4. Windowing System di Linux
-5. Linux *console* dan terminal
-6. Utilitas dasar Linux
-7. Shell Script
+3. Komponen sistem operasi
+4. Untuk pemakai Linux:
+    * Gambaran umum Linux
+    * Komponen-komponen SO Linux
+    * Windowing System di Linux
+    * Linux *console* dan terminal
+    * Utilitas dasar Linux
+    * Shell Script
+5. Untuk pemakai macOS:
+    * Gambaran umum macOS
+    * Arsitektur Komponen-komponen macOS
+    *
+6. Untuk pemakai Windows:
+    * Keluarga Windows OS
+    * Komponen-komponen Windows
 
 ### Pembelajaran
 
 1. Cara [software](https://en.wikipedia.org/wiki/Software) menempati komputer kita serta bagaimana user berinteraksi dengan *tasks* komputasi. Tekankan pemahaman pada bagaimana [sistem operasi](https://en.wikipedia.org/wiki/Operating_system) bekerja.
 2. *Overview* dari [daftar sistem operasi](https://en.wikipedia.org/wiki/List_of_operating_systems) yang ada di dunia ini. 
-3. [Komponen-komponen SO Linux](https://en.wikipedia.org/wiki/Linux).
-4. [Windowing System](https://en.wikipedia.org/wiki/Windowing_system) yang berfungsi sebagai antarmuka grafis (GUI) di Linux serta impelementasinya di Linux menggunakan [X Window System](https://en.wikipedia.org/wiki/X_Window_System).
-5. Keterkaitan X Window System dengan [Display Manager](https://en.wikipedia.org/wiki/X_display_manager_(program_type)), [Window Manager](https://en.wikipedia.org/wiki/Window_manager), serta [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment).
-6. [Linux console](https://en.wikipedia.org/wiki/Linux_console) dan keterkaitannya dengan [Linux shell](https://en.wikipedia.org/wiki/Shell_(computing)). 
-7. Ringkasan dari [berbagai command shell](https://en.wikipedia.org/wiki/Comparison_of_command_shells) terutama yang digunakan di Linux.
-8. Beberapa utilitas yang biasanya digunakan pada saat berada di *console* / *shell*. Beberapa utilitas tersebut biasanya berada dalam kelompok [GNU Core Utilities](https://www.gnu.org/software/coreutils/) dan [util-linux](https://en.wikipedia.org/wiki/Util-linux). Beberapa petunjuk lainnya adalah [Guru99](https://www.guru99.com/must-know-linux-commands.html) dan [E-Guide - format PDF](https://cse.yeditepe.edu.tr/~ayildiz/attachments/linux_commands_eguide.pdf).
-9. Cara membuat [shell script](https://en.wikipedia.org/wiki/Shell_script).
+3. Untuk pemakai Linux:
+    * [Komponen-komponen SO Linux](https://en.wikipedia.org/wiki/Linux). 
+    * [Windowing System](https://en.wikipedia.org/wiki/Windowing_system) yang berfungsi sebagai antarmuka grafis (GUI) di Linux serta impelementasinya di Linux menggunakan [X Window System](https://en.wikipedia.org/wiki/X_Window_System).
+    * Keterkaitan X Window System dengan [Display Manager](https://en.wikipedia.org/wiki/X_display_manager_(program_type)), [Window Manager](https://en.wikipedia.org/wiki/Window_manager), serta [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment).
+    * [Linux console](https://en.wikipedia.org/wiki/Linux_console) dan keterkaitannya dengan [Linux shell](https://en.wikipedia.org/wiki/Shell_(computing)). 
+    * Ringkasan dari [berbagai command shell](https://en.wikipedia.org/wiki/Comparison_of_command_shells) terutama yang digunakan di Linux.
+    * Beberapa utilitas yang biasanya digunakan pada saat berada di *console* / *shell*. Beberapa utilitas tersebut biasanya berada dalam kelompok [GNU Core Utilities](https://www.gnu.org/software/coreutils/) dan [util-linux](https://en.wikipedia.org/wiki/Util-linux). Beberapa petunjuk lainnya adalah [Guru99](https://www.guru99.com/must-know-linux-commands.html) dan [E-Guide - format PDF](https://cse.yeditepe.edu.tr/~ayildiz/attachments/linux_commands_eguide.pdf). 
+    * Cara membuat [shell script](https://en.wikipedia.org/wiki/Shell_script).
+4. Untuk pemakai macOS:
+    * [Gambaran umum macOS](https://en.wikipedia.org/wiki/MacOS).
+    * [Arsitektur macOS](https://en.wikipedia.org/wiki/Architecture_of_macOS).
+    * [Terminal dan shell di macOS](https://www.techrepublic.com/blog/apple-in-the-enterprise/mac-terminal-basics-unlock-the-power-of-the-command-line/).
+    * [Terminal di macOS](https://en.wikipedia.org/wiki/Terminal_(macOS)).
+    * Dua shell yang sering dipakai di macOS: [Bash](https://www.gnu.org/software/bash/) dan [Zsh]((http://zsh.sourceforge.net/). Default shell di macOS adalah Bash (pre-Catalina). Mulai Catalina, shell default adalah Zsh.
+    * [Beberapa utilities di macOS](https://www.mitchchn.me/2014/os-x-terminal/), lihat juga di [artikel ini](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/).
+    * [Daftar lengkap command line berbasis Bash di macOS](https://ss64.com/osx/).
+    * [Shell script dan cara pembuatannya](https://en.wikipedia.org/wiki/Shell_script).
+5. Untuk pemakai keluarga Microsoft Windows:
+    * [Gambaran umum Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows).
+    * [Gambaran umum Microsoft Windows 10](https://en.wikipedia.org/wiki/Windows_10).
+    * [Gambaran umum arsitektur internal Windows](https://techcommunity.microsoft.com/t5/Ask-The-Performance-Team/Windows-Architecture-The-Basics/ba-p/372345).
+    * [Windows Internal book](https://docs.microsoft.com/en-us/sysinternals/learn/windows-internals).
+    * [Dokumentasi Powershell](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/powershell).
+    * [Daftar command line di Windows](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands). 
+    * [Batch file](https://en.wikipedia.org/wiki/Batch_file).
+    * [Powershell script](https://www.pdq.com/blog/writing-your-first-powershell-script/), lihat
+        juga di [artikel
+        ini](https://www.howtogeek.com/141495/geek-school-writing-your-first-full-powershell-script/),
+        dan [artikel ini](https://www.guru99.com/powershell-tutorial.html).
+    * [Daftar perintah Powershell](https://www.pdq.com/powershell/), lihat juga di [artikel ini](https://devblogs.microsoft.com/scripting/table-of-basic-powershell-commands/). 
+    * [Perintah-perintah di *batch file*](http://www.trytoprogram.com/batch-file-commands/).
+    * [Batch file dan Powershell script](https://www.howtogeek.com/204088/how-to-use-a-batch-file-to-make-powershell-scripts-easier-to-run/). 
 
 
 ```
 Latihan
 ```
 
-**Catatan**: semua hasil pada latihan ini disimpan pada direktori `$HOME/praxis/kemampuan-dasar-1/latihan`.
+**Catatan**: semua hasil pada latihan ini disimpan pada direktori `praxis-academy/kemampuan-dasar-1/latihan` (jika menggunakan Windows, pemisah antar direktori adalah \, jadi pada Windows hasilnya akan disimpan di `praxis-academy\kemampuan-dasar-1\latihan`. Anda bebas menentukan lokasi tempat direktori `praxis-academy` berada.
+
+**Untuk Pemakai Linux**
 
 1. Boot laptop masing-masing, perhatikan proses booting dari awal, jika muncul Grub, usahakan melihat parameter dari Grub tersebut. Cari informasi di Internet tentang parameter Grub tersebut. Simpan hasil anda pada file teks biasa dengan nama file `grub.txt`.
 2. Cari informasi tentang software yang ada di laptop anda: display manager yang digunakan, window manager yang digunakan, desktop environment yang digunakan, serta shell apa yang digunakan. Dari mana bisa mengetahui informasi tersebut? Tulis jawaban pada file teks biasa dengan nama file `env.txt`.
@@ -82,6 +119,14 @@ Latihan
     * silahkan coba beberapa perintah di [Guru99](https://www.guru99.com/must-know-linux-commands.html) dan [E-Guide - PDF](https://cse.yeditepe.edu.tr/~ayildiz/attachments/linux_commands_eguide.pdf), minimal 10 perintah.
     * tulis hasil dari masing-masing perintah tersebut ke dalam file `cmdline.txt` (gunakan copy paste dari shell)
 5. Untuk latihan ini, letakkan hasil pada direktori `$HOME/praxis/kemampuan-dasar-1/latihan/shellscripts`: silahkan coba [30 contoh shell script](https://linuxhint.com/30_bash_script_examples/).
+
+**Untuk Pemakai macOS**
+
+
+
+
+**Untuk Pemakai Windows**
+
 
 ```
 Kasus
@@ -94,7 +139,7 @@ Referensi:
 
 Selesaikan kasus-kasus berikut.
 
-**Catatan**: Semua hasil pengerjaan kasus ini disimpan pada `$HOME/praxis/kemampuan-dasar-1/kasus`
+**Catatan**: semua hasil pada latihan ini disimpan pada direktori `praxis-academy/kemampuan-dasar-1/kasus` (jika menggunakan Windows, pemisah antar direktori adalah \, jadi pada Windows hasilnya akan disimpan di `praxis-academy\kemampuan-dasar-1\kasus`. Anda bebas menentukan lokasi tempat direktori `praxis-academy` berada.
 
 1. Buat shell script `cari-java.sh` untuk melihat daftar file pada suatu direktori (termasuk direktori anak-anaknya) dan jika terdapat file dengan ekstensi `.java` - tampilkan tulisan "`Ada file Java pada direktori {nama direktori}`". Hasil eksekusi (misalnya):
 
@@ -147,11 +192,7 @@ Materi dan Penjelasan
 
 Buat repo di account Github anda dengan nama `praxis-academy`. Setelah itu inisialisasi repo tersebut di komputer lokal anda. Repo ini yang akan menjadi hasil dari kemampuan dasar anda. URL dari repo anda ini seharusnya adalah `https://github.com/username/praxis-academy`:
 
-1. Kerjakan [petunjuk pembuatan repo dari Github
-   ini](https://help.github.com/en/articles/create-a-repo). Cukup kerjakan langkah 1 - 6 saja,
-   setelah itu berhenti pada saat repo telah dibuat. Untuk langkah 5, jangan mengaktifkan *checkbox*
-   **Initialize this repository with a README**. Untuk selanjutnya, ini akan kita sebut sebagai
-   **repo GitHub**.
+1. Kerjakan [petunjuk pembuatan repo dari Github ini](https://help.github.com/en/articles/create-a-repo). Cukup kerjakan langkah 1 - 6 saja, setelah itu berhenti pada saat repo telah dibuat. Untuk langkah 5, jangan mengaktifkan *checkbox* **Initialize this repository with a README**. Untuk selanjutnya, ini akan kita sebut sebagai **repo GitHub**.
 2. Di komputer lokal, kerjakan (lokasi direktori bebas, asal hak akses memenuhi - bisa create dir,
    file, dan seterusnya - lokasi yang anda pilih akan disebut sebagai $LOKASI):
     * git clone https://github.com/username/praxis-academy
@@ -191,6 +232,8 @@ kemampuan-dasar/
     * [Getting Started](https://dev.acquia.com/blog/getting-started-collaborative-development-git). Nama file hasil untuk praktik ini adalah `praktik-1.md`.
     * [Team Collaboration with GitHub](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876). Nama file hasil untuk praktik ini adalah `praktik-2.md`.
 
+3. Buat direktori `wawasan` pada direktori `kemampuan-dasar`. Buatlah rangkuman dari "Ruang Lingkup Pengembangan Sofwtare - Materi dan Penjelasan - point 1 sampa 6" di atas (awal dokumen ini). Tuliskan hasil rangkuman anda pada file `README.md`, letakkan di direktori `wawasan` tersebut. Yang anda kerjakan adalah merangkum, bukan menterjemahkan. Pahami esensinya, setelah itu tuliskan secara ringkas.
+
 ## Hasil Akhir
 
 Setelah menyelesaikan kemampuan dasar teknis 1 dan 2 di atas, struktur direktori dan file di repo hasil pekerjaan anda (baik repo lokal maupun repo GitHub) adalah sebagai berikut:
@@ -214,8 +257,10 @@ kemampuan-dasar/
 │            ....
 │            ....
 │           └── sleep-example.sh
-└── kemampuan-dasar-2
-    ├── praktik-1.md
-    ├── praktik-2.md
+├── kemampuan-dasar-2
+│   ├── praktik-1.md
+│   ├── praktik-2.md
+│   └── README.md
+└── wawasan
     └── README.md
 ```
