@@ -104,7 +104,7 @@ Materi dan Penjelasan
 Latihan
 ```
 
-**Catatan**: semua hasil pada latihan ini disimpan pada direktori `praxis-academy/kemampuan-dasar-1/latihan` (jika menggunakan Windows, pemisah antar direktori adalah \, jadi pada Windows hasilnya akan disimpan di `praxis-academy\kemampuan-dasar-1\latihan`. Anda bebas menentukan lokasi tempat direktori `praxis-academy` berada.
+**Catatan**: semua hasil pada latihan ini disimpan pada direktori `praxis-academy/kemampuan-dasar-1/latihan` (jika menggunakan Windows, pemisah antar direktori adalah \\, jadi pada Windows hasilnya akan disimpan di `praxis-academy\kemampuan-dasar-1\latihan`. Anda bebas menentukan lokasi tempat direktori `praxis-academy` berada.
 
 **Untuk Pemakai Linux**
 
