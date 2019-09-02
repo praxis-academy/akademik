@@ -94,10 +94,7 @@ Materi dan Penjelasan
     * [Dokumentasi Powershell](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/powershell).
     * [Daftar command line di Windows](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands). 
     * [Batch file](https://en.wikipedia.org/wiki/Batch_file).
-    * [Powershell script](https://www.pdq.com/blog/writing-your-first-powershell-script/), lihat
-        juga di [artikel
-        ini](https://www.howtogeek.com/141495/geek-school-writing-your-first-full-powershell-script/),
-        dan [artikel ini](https://www.guru99.com/powershell-tutorial.html).
+    * [Powershell script](https://www.pdq.com/blog/writing-your-first-powershell-script/), lihat juga di [artikel ini](https://www.howtogeek.com/141495/geek-school-writing-your-first-full-powershell-script/) dan [artikel ini](https://www.guru99.com/powershell-tutorial.html).
     * [Daftar perintah Powershell](https://www.pdq.com/powershell/), lihat juga di [artikel ini](https://devblogs.microsoft.com/scripting/table-of-basic-powershell-commands/). 
     * [Perintah-perintah di *batch file*](http://www.trytoprogram.com/batch-file-commands/).
     * [Batch file dan Powershell script](https://www.howtogeek.com/204088/how-to-use-a-batch-file-to-make-powershell-scripts-easier-to-run/). 
@@ -118,15 +115,17 @@ Latihan
 4. Masuk ke *terminal / console* dan kerjakan beberapa perintah berikut melalui *command line / shell*: 
     * silahkan coba beberapa perintah di [Guru99](https://www.guru99.com/must-know-linux-commands.html) dan [E-Guide - PDF](https://cse.yeditepe.edu.tr/~ayildiz/attachments/linux_commands_eguide.pdf), minimal 10 perintah.
     * tulis hasil dari masing-masing perintah tersebut ke dalam file `cmdline.txt` (gunakan copy paste dari shell)
-5. Untuk latihan ini, letakkan hasil pada direktori `$HOME/praxis/kemampuan-dasar-1/latihan/shellscripts`: silahkan coba [30 contoh shell script](https://linuxhint.com/30_bash_script_examples/).
+5. Untuk latihan ini, letakkan hasil pada direktori `praxis-academy/kemampuan-dasar-1/latihan/shellscripts`: silahkan coba [30 contoh shell script](https://linuxhint.com/30_bash_script_examples/).
 
 **Untuk Pemakai macOS**
 
-
-
+1. Kerjakan berbagai hal yang ada di artikel tentang [beberapa utilities di macOS](https://www.mitchchn.me/2014/os-x-terminal/) dan [artikel ini](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/). Tulis hasil semua yang anda coba pada file `cmdline.txt`.
+2. Untuk latihan ini, letakkan hasil pada direktori `praxis-academy/kemampuan-dasar-1/latihan/shellscripts`: silahkan coba [30 contoh shell script](https://linuxhint.com/30_bash_script_examples/). Jika anda menggunakan Zsh, silahkan [kerjakan materi ini](https://www.linuxtoday.com/blog/writing-scripts-for-zsh.html).
 
 **Untuk Pemakai Windows**
 
+1. Kerjakan minimal 20 command line yang ada di [daftar command line di Windows](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands). Tulis hasil semua yang anda coba pada file `cmdline.txt`.
+2. Untuk latihan ini, letakkan hasil pada direktori `praxis-academy\kemampuan-dasar-1\latihan\powershellscripts`. Kerjakan contoh [Powershell script](https://www.pdq.com/blog/writing-your-first-powershell-script/), juga di [artikel ini](https://www.howtogeek.com/141495/geek-school-writing-your-first-full-powershell-script/), [artikel ini](https://www.guru99.com/powershell-tutorial.html), dan [batch file dan Powershell script](https://www.howtogeek.com/204088/how-to-use-a-batch-file-to-make-powershell-scripts-easier-to-run/). 
 
 ```
 Kasus
@@ -136,23 +135,32 @@ Referensi:
 1. [Wikibooks - Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 2. [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 3. [Bash Handbook](https://github.com/denysdovhan/bash-handbook)
+4. [Dokumentasi Zsh](http://zsh.sourceforge.net/Doc/Release/zsh_toc.html)
+5. [Perintah-perintah di *batch file*](http://www.trytoprogram.com/batch-file-commands/).
+6. [Dokumentasi Powershell](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/powershell).
 
 Selesaikan kasus-kasus berikut.
 
 **Catatan**: semua hasil pada latihan ini disimpan pada direktori `praxis-academy/kemampuan-dasar-1/kasus` (jika menggunakan Windows, pemisah antar direktori adalah \, jadi pada Windows hasilnya akan disimpan di `praxis-academy\kemampuan-dasar-1\kasus`. Anda bebas menentukan lokasi tempat direktori `praxis-academy` berada.
 
-1. Buat shell script `cari-java.sh` untuk melihat daftar file pada suatu direktori (termasuk direktori anak-anaknya) dan jika terdapat file dengan ekstensi `.java` - tampilkan tulisan "`Ada file Java pada direktori {nama direktori}`". Hasil eksekusi (misalnya):
+1. Buat shell script / powershell sript / batch file `cari-java.sh` (untuk shell script - macOS dan Linux) atau `cari-java.bat` (untuk Windows). Tujuan dari script tersebut adalah untuk melihat daftar file pada suatu direktori (termasuk direktori anak-anaknya) dan jika terdapat file dengan ekstensi `.java` - tampilkan tulisan "`Ada file Java pada direktori {nama direktori}`". Hasil eksekusi (di Linux, lainnya menyesuaikan):
 
 ```bash
 $ cari-java.sh $HOME/src
 Ada file Java pada direktori /home/bpdp/src/hari-01
 ```
 
-2. Buat shell script `process-killer.sh` untuk menanyakan suatu nama program (misalnya `firefox`), setelah itu mencari PID dari program tersebut dan jika PID program tersebut ada, maka program tersebut akan dimatikan. Saran: gunakan perintah-perintah `ps`, `grep`, `awk`, dan `kill`.
+2. Untuk pemakai Linux dan macOS: Buat shell script `process-killer.sh` untuk menanyakan suatu nama program (misalnya `firefox`), setelah itu mencari PID dari program tersebut dan jika PID program tersebut ada, maka program tersebut akan dimatikan. Saran: gunakan perintah-perintah `ps`, `grep`, `awk`, dan `kill`.
+
+3. Untuk pemakai Windows: Lanjutkan kasus nomor 1. Beri nama file yang anda kerjakan ini dengan nama
+   `file-ren.bat`. Setelah menemukan file .java, akan muncul pertanyaan:
+    * *nama-file.java* ada, diganti namanya (y/t)?
+    * jika y, maka input nama baru kemudian diganti
+    * jika t, maka lanjut ke proses berikutnya
 
 ## Kemampuan Teknis Dasar 2: Source Code Management - Git dan GitHub
 
-1. Source Code Management: Git dan GitHub
+Bagian ini dikerjakan oleh semua pemakai sistem operasi: Linux, macOS, dan Windows.
 
 ### Tujuan
 
@@ -180,7 +188,7 @@ Materi dan Penjelasan
 2. Keterkaitan software engineering dengan [SCM - Software Configuration Management](https://en.wikipedia.org/wiki/Software_configuration_management).
 3. Keterkaitan SCM dengan [Version Control](https://en.wikipedia.org/wiki/Version_control) dan [Distributed Version Control](https://en.wikipedia.org/wiki/Distributed_version_control).
 4. [Git](https://en.wikipedia.org/wiki/Git) dan keterkaitannya dengan Distributed Version Control
-5. [Men-*setup* Git - Chapter 1 - Getting Started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control).
+5. [Men-*setup* Git - Chapter 1 - Getting Started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control), pastikan juga bahwa [git telah terinstall](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 6. [Membuat account GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) serta [membuat repo di GitHub](https://help.github.com/en/articles/creating-a-new-repository). 
 7. [README.md](https://www.quora.com/What-is-README-MD-file-and-why-do-I-need-it) serta [mampu menggunakan pemformatan file markdown untuk menuliskan dokumentasi](https://help.github.com/en/articles/basic-writing-and-formatting-syntax). 
 8. Penggunaan `git status`, `git add`, `git commit`, `git push` untuk menyimpan ke *remote repo*
@@ -204,7 +212,7 @@ Buat repo di account Github anda dengan nama `praxis-academy`. Setelah itu inisi
 Latihan
 ```
 
-1. Untuk keperluan pengerjaan kemampuan dasar ini, buat direktori di repo lokal dengan nama `kemampuan-dasar`. Setelah itu, masukkan hasil pekerjaan yang telah anda kerjakan pada materi **Kemampuan Teknis Dasar 1** di atas ke direktori `kemampuan-dasar-1` dalam direktori `kemampuan-dasar` sehingga pada repo lokal anda akan terdapat 2 direktori. Setelah itu, push ke repo GitHub. Struktur direktori dan berbagai file yang harus ada pada posisi ini adalah:
+1. Untuk keperluan pengerjaan kemampuan dasar ini, buat direktori di repo lokal dengan nama `kemampuan-dasar`. Setelah itu, masukkan hasil pekerjaan yang telah anda kerjakan pada materi **Kemampuan Teknis Dasar 1** di atas ke direktori `kemampuan-dasar-1` dalam direktori `kemampuan-dasar` sehingga pada repo lokal anda akan terdapat 2 direktori. Setelah itu, push ke repo GitHub. Struktur direktori dan berbagai file yang harus ada pada posisi ini adalah (jika menggunakan Linux, pengguna lain silahkan menyesuaikan):
 
 ```
 kemampuan-dasar/
@@ -236,7 +244,7 @@ kemampuan-dasar/
 
 ## Hasil Akhir
 
-Setelah menyelesaikan kemampuan dasar teknis 1 dan 2 di atas, struktur direktori dan file di repo hasil pekerjaan anda (baik repo lokal maupun repo GitHub) adalah sebagai berikut:
+Setelah menyelesaikan kemampuan dasar teknis 1 dan 2 di atas, struktur direktori dan file di repo hasil pekerjaan anda (baik repo lokal maupun repo GitHub) adalah sebagai berikut (jika menggunakan Linux, pengguna lain silahkan menyesuaikan):
 
 ```bash
 kemampuan-dasar/
