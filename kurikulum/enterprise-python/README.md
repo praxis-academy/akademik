@@ -79,9 +79,22 @@
 5. CockroachDB sebagai *database* NewSQL.
 6. Akses CockroachDB menggunakan Python.
 
-*Hari 2: Membangun Aplikasi Web*
+*Hari 2: Membangun Aplikasi Web: Pengenalan Flask*
 
-1. Flask: Python Web microframework
+1. WSGI (Web Server Gateway Interface).
+2. Microframework
+3. Gambaran umum Flask - Python Web microframework
+4. Instalasi dan konfigurasi dasar Flask
+5. Struktur aplikasi Flask
+6. Mengenal routing
+7. HTTP method dan routing
+8. Static files
+9. Dasar-dasar template
+10. *Request object*
+11. Cookies
+12. Redirect dan error
+13. API menggunakan JSON
+14. Dasar-dasar session
 
 *Hari 3: Template Engine di Flask*
 
