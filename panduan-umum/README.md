@@ -1,4 +1,4 @@
-# Repo Akademik - Praxis Academy
+# Panduan Umum - Praxis Academy
 
 Silahkan mengakses dalam format:
 
