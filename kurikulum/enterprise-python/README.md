@@ -105,7 +105,12 @@
 
 *Hari 3: Pengujian Aplikasi Flask*
 
-1. TBD
+1. Gambaran umum *software testing*
+2. Level testing: *unit testing* dan *integration testing*
+3. Unit testing di Python
+4. Integration testing di Python
+5. Unit testing di Flask
+6. Integration testing di Flask
 
 *Hari 4: Error, Logging, dan Debugging Aplikasi Flask*
 
