@@ -98,7 +98,10 @@
 
 *Hari 3: Template Engine di Flask*
 
-1. TBD 
+1. *Template engine* dan *template processor*
+2. *Web template system*
+3. Gambaran umum Jinja dan Jinja2
+4. Integrasi Jinja ke Flask
 
 *Hari 3: Pengujian Aplikasi Flask*
 
@@ -130,7 +133,7 @@
 
 1. TBD
 
-*Hari 5: Endpoint* 
+*Hari 5: Microservices dan Endpoint* 
 
 1. RESTful Endpoint
 2. GraphQL
