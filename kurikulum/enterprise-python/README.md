@@ -112,13 +112,15 @@
 5. *Unit testing* di Flask
 6. *Integration testing* di Flask
 
-*Hari 5: Error, Logging, dan Debugging Aplikasi Flask*
+*Hari 5: Error Handling dan Signals*
 
-1. TBD
-
-*Hari 5: Signals di Flask*
-
-1. TBD
+1. Error handling, logging, debugging di Flask
+2. Signals di Flask:
+    * Pengertian
+    * Membuat signals
+    * Subscribe ke signals
+    * Mengirimkan signals
+    * Signals dan Request Ccntext dari Flask
 
 [Minggu 04](isi/04.md)
 
