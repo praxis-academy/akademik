@@ -103,16 +103,16 @@
 3. Gambaran umum Jinja dan Jinja2
 4. Integrasi Jinja ke Flask
 
-*Hari 3: Pengujian Aplikasi Flask*
+*Hari 4: Pengujian Aplikasi Flask*
 
 1. Gambaran umum *software testing*
 2. Level testing: *unit testing* dan *integration testing*
-3. Unit testing di Python
-4. Integration testing di Python
-5. Unit testing di Flask
-6. Integration testing di Flask
+3. *Unit testing* di Python
+4. *Integration testing* di Python
+5. *Unit testing* di Flask
+6. *Integration testing* di Flask
 
-*Hari 4: Error, Logging, dan Debugging Aplikasi Flask*
+*Hari 5: Error, Logging, dan Debugging Aplikasi Flask*
 
 1. TBD
 
