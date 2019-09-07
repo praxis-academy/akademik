@@ -124,24 +124,37 @@
 
 [Minggu 04](isi/04.md)
 
-*Hari 1: Pluggable VIews di Flask*
+*Hari 1: Pluggable Views di Flask*
 
-1. TBD
+1. Pengertian Pluggable Views
+2. Pluggable views sebagai *generic views*
+3. Pluggable views untuk RESTful API
 
 *Hari 2: Context*
 
-1. TBD
+1. Pengertian context dan *application dispatching*
+2. Application context
+3. Request context
 
-*Hari 3: Blueprintks untuk Aplikasi Modular di Flask*
+*Hari 3: Blueprints untuk Aplikasi Modular di Flask*
 
-1. TBD
+1. Pengertian dan konsep Blueprints
+2. Pemanfaatan Blueprints
+3. Membuat Blueprints
+4. Register Blueprints
+5. Blueprints dan *resources*
+6. URL dan Blueprints
+7. Penanganan error di Blueprints
 
 *Hari 4: Flask Extensions*
 
-1. TBD
+1. Pengertian *extension*
+2. Mencari dan menggunakan *extension*
+3. Beberapa contoh *extension*
+4. Membuat *extension*
 
 *Hari 5: Microservices dan Endpoint* 
 
-1. RESTful Endpoint
-2. GraphQL
+1. Memahami arsitektur microservices
+2. RESTful Endpoint dan GraphQL menggunakan Python - Flask
 
