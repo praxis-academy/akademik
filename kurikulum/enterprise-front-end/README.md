@@ -81,7 +81,11 @@ Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 
 *Hari 2: Paradigma Pemrograman di JavaScript: OOP (2)*
 
-1. Class-based OOP di JavaScript
+1. Class-based OOP di JavaScript (ES6)
+2. Definisi class
+3. Konstruktor
+4. Properties dan methods
+5. Inheritance
 
 *Hari 3: Paradigma Pemrograman di JavaScript: Functional Programming*
 
@@ -100,7 +104,9 @@ Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 
 *hari 5: JavaScript Modules*
 
-1. Gambaran umum implementasi *modules* di JavaScript
+1. Pengertian modules
+2. Gambaran umum implementasi *modules* di JavaScript
+3. Membuat dan menggunakan modules
 
 [Minggu 03](isi/03.md)
 
