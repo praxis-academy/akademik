@@ -74,9 +74,10 @@ Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 
 *Hari 1: Paradigma Pemrograman di JavaScript: OOP (1)*
 
-1. Memahami OOP
-2. OOP di JavaScript: Prototype-based
-3. Prototype-based OOP di JavaScript
+1. Paradigma pemrograman
+2. Memahami OOP
+3. OOP di JavaScript: Prototype-based
+4. Prototype-based OOP di JavaScript
 
 *Hari 2: Paradigma Pemrograman di JavaScript: OOP (2)*
 
