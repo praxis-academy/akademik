@@ -112,7 +112,13 @@ Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 
 *Hari 1: Error Handling*
 
-1. Error dan Exception Handling
+1. Kategori Error
+2. Gambaran umum teknik penanganan error dan exception di JavaScript
+3. Berbagai konstruksi bahasa pemrograman di JavaScript untuk menangani error:
+    * try .. catch .. finally
+    * Throw
+    * onerror
+4. *Custom error*.
 
 *Hari 2: Web API*
 
