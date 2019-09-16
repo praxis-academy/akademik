@@ -141,8 +141,10 @@ Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 
 *Hari 5: Pengenalan Vue.js*
 
-1. Dasar-dasar Vue.js 
-2. Vue.js Essentials
+1. Dasar-dasar Vue.js
+2. Instalasi Vue.js
+3. Pengenalan Vue.js
+4. Contoh program menggunakan Vue.js
 
 [Minggu 04](isi/04.md)
 
