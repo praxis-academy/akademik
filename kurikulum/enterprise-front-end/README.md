@@ -122,7 +122,10 @@ Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 
 *Hari 2: Web API*
 
-1. Gambaran umum Web API
+1. Gambaran umum dan pengenalan (*client-side*) Web API
+2. Kategori Web API
+3. Berbagai Web API yang tersedia
+4. Penggunaan berbagai Web API
 
 *Hari 3: Manipulasi DOM*
 
