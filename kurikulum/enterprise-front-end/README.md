@@ -129,7 +129,11 @@ Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 
 *Hari 3: Manipulasi DOM*
 
-1. Pengantar Manipulasi DOM Menggunakan JavaScript
+1. Pengertian dan gambaran umum DOM
+2. DOM dan JavaScript
+3. Mengakses DOM menggunakan JavaScript
+4. Tipe data fundamental dalam DOM
+5. *Interfaces - objects*
 
 *Hari 4: DOM Lanjut*
 
