@@ -163,7 +163,9 @@ Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 
 *Hari 3: Just Enough React*
 
-1. Gambaran umum React
+1. Setup untuk React
+2. Dasar-dasar React: *components, props, state*
+3. Teknik pembuatan aplikasi di React
 
 *Hari 4: single-spa untuk Micro Frontends*
 
@@ -173,6 +175,5 @@ Untuk sisi pemrograman, ada beberapa referensi yang bisa digunakan:
 
 *Hari 5: JavaScript Front End Tooling*
 
-1. Gambaran umum
-2. Tooling untuk *JavaScript Front End Developer*
+Overview tentang *tooling*.
 
