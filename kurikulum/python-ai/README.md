@@ -33,15 +33,19 @@ kuat akan sangat diperlukan.
 3. UML, *software design / modeling*, OOP, dan Python
 4. Object Oriented Programming Lanjut di Python
 
-*Hari 4: Functional Programming*
+*Hari 4: Functional dan Concurrent Programming*
 
 1. Paradigma *Functional Programming*.
 2. *Functional Programming* di Python
+3. Memahami *Concurrent Programming*
+4. *Concurrent Programming* di Python
 
-*Hari 5: Concurrent Programming di Python*
+*Hari 5: Serialisasi Data*
 
-1. Memahami *Concurrent Programming*
-2. *Concurrent Programming* di Python
+1. Serialisasi dan de-serialisasi
+2. Serialisasi data: XML dan JSON
+3. Serialisasi dan de-serialisasi data lainnya: YAML, Protobuf, dan lain-lain
+4. Serialisasi obyek: pickle
 
 ## Matematika dan Statistika untuk AI
 
@@ -64,6 +68,8 @@ berbagai materi berikut:
 3. [Math, Stats and NLP for Machine Learning: As Fast As Possible](https://medium.com/meta-design-ideas/math-stats-and-nlp-for-machine-learning-as-fast-as-possible-915ef47ced5f)
 
 ## Python AI Programming
+
+### Machine Learning
 
 [Minggu 02](isi/02.md)
 
