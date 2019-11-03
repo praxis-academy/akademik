@@ -8,3 +8,5 @@ kelas, pastikan bahwa setiap siswa telah menyelesaikan [materi kemampuan dasar](
 3. [Enterprise Front End Developer](enterprise-front-end/)
 4. [Mobile Application Developer](mobile-app-dev/)
 5. [Node.js Programming](node.js/)
+6. [Python Programming for Artificial Intelligence](python-ai/)
+
