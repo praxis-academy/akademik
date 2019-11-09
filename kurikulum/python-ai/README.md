@@ -83,13 +83,19 @@ Untuk memahami ML, selain memerlukan pemahaman dasar-dasar matematika dan statis
 
 *Hari 1: Komputasi Numerik Menggunakan NumPy*
 
+1. Instalasi NumPy
+2. Ruang lingkup komputasi numerik di NumPy
+3. Pengolahan array di NumPy menggunnakan **ndarray**
+4. Matriks dan Vector di NumPy
+5. Aljabar Linear 
+
 *Hari 2: Komputasi Ilmiah Menggunakan SciPy*
 
-*Hari 3: Model dan Analisis Statistika Menggunakan Statsmodel*
+*Hari 3: Eksplorasi dan Penyiapan Data Menggunakan Pandas*
 
-*Hari 4: Eksplorasi dan Penyiapan Data Menggunakan Pandas*
+*Hari 4: Visualisasi Data Menggunakan Matplotlib dan Seaborn*
 
-*Hari 5: Visualisasi Data Menggunakan Matplotlib dan Seaborn*
+*Hari 5: Model dan Analisis Statistika Menggunakan Statsmodel*
 
 [Minggu 03](isi/03.md)
 
