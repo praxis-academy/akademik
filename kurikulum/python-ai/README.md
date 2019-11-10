@@ -75,9 +75,9 @@ Untuk memahami ML, selain memerlukan pemahaman dasar-dasar matematika dan statis
 
 1. [NumPy](https://numpy.org/): pustaka untuk pengolahan matriks, array dengan N-dimensi, serta berbagai fungsi yang terkait dengan aljabar linear, transformasi Fourier, serta angka acak (*random*).
 2. [SciPy](https://scipy.org/scipylib/index.html): pustaka untuk komputasi ilmiah - integrasi numerik, interpolasi, optimisasi, aljabar linear, dan statistika.
-3. [Statsmodel](http://www.statsmodels.org/stable/index.html): pustaka dengan fondasi NumPy dan SciPy yang menyediakan berbagai kelas dan fungsi untuk keperluan estimasi berbagai model statistika, melaksanakan uji statistika, serta eksplorasi data statistika.
-4. [Pandas](https://pandas.pydata.org/): untuk eksporasi dan penyiapan data.
-5. Visualisasi data menggunakan [Matplotlibi](https://matplotlib.org/) dan [Seaborn](https://seaborn.pydata.org/index.html).
+3. [Pandas](https://pandas.pydata.org/): untuk eksporasi dan penyiapan data.
+4. Visualisasi data menggunakan [Matplotlibi](https://matplotlib.org/) dan [Seaborn](https://seaborn.pydata.org/index.html).
+5. [Statsmodel](http://www.statsmodels.org/stable/index.html): pustaka dengan fondasi NumPy dan SciPy yang menyediakan berbagai kelas dan fungsi untuk keperluan estimasi berbagai model statistika, melaksanakan uji statistika, serta eksplorasi data statistika.
 
 [Minggu 02](isi/02.md)
 
@@ -86,7 +86,7 @@ Untuk memahami ML, selain memerlukan pemahaman dasar-dasar matematika dan statis
 1. Instalasi NumPy
 2. Ruang lingkup komputasi numerik di NumPy
 3. Pengolahan array di NumPy menggunnakan **ndarray**
-4. Matriks dan Vector di NumPy
+4. Matriks dan Vektor di NumPy
 5. Aljabar Linear 
 
 *Hari 2: Komputasi Ilmiah Menggunakan SciPy*
@@ -96,6 +96,18 @@ Untuk memahami ML, selain memerlukan pemahaman dasar-dasar matematika dan statis
 *Hari 4: Visualisasi Data Menggunakan Matplotlib dan Seaborn*
 
 *Hari 5: Model dan Analisis Statistika Menggunakan Statsmodel*
+
+
+**Catatan**
+
+Pembelajaran terkait pustaka esensial ini sebenarnya relatif banyak. Materi-materi yang ada pada minggu ini merupakan materi yang lebih bersifat pada pengenalan dan pemahaman ruang lingkup. Untuk pembelajaran lebih lanjut, beberapa sumber daya berikut ini bisa digunakan:
+
+1. [Scipy Lecture Notes](https://scipy-lectures.org/)
+2. [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/), juga [repo GitHub](https://github.com/rougier/from-python-to-numpy).
+3. [SciPy Cookbook](https://scipy-cookbook.readthedocs.io/).
+4. [Materi setelah *Basic Documentation* untuk **statsmodel**](https://www.statsmodels.org/stable/index.html).
+
+### Machine Learning dan Deep Learning 
 
 [Minggu 03](isi/03.md)
 
