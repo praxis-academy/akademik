@@ -89,11 +89,22 @@ Untuk memahami ML, selain memerlukan pemahaman dasar-dasar matematika dan statis
 4. Matriks dan Vektor di NumPy
 5. Aljabar Linear 
 
-*Hari 2: Komputasi Ilmiah Menggunakan SciPy*
+*Hari 2: Visualisasi Data Menggunakan Matplotlib*
 
-*Hari 3: Eksplorasi dan Penyiapan Data Menggunakan Pandas*
+1. Instalasi Matplotlib
+2. Ruang lingkup visualisasi data menggunakan Matplotlib
+3. Tipe Dasar Plot di Matplotlib
+4. Matplotlib lanjut
 
-*Hari 4: Visualisasi Data Menggunakan Matplotlib dan Seaborn*
+*Hari 3: Komputasi Ilmiah Menggunakan SciPy*
+
+1. Instalasi SciPy
+2. Ruang lingkup SciPy
+3. NumPy vs Scipy
+4. Penggunaan Fungsi-fungsi Dasar SciPy
+
+*Hari 4: Eksplorasi dan Penyiapan Data Menggunakan Pandas*
+
 
 *Hari 5: Model dan Analisis Statistika Menggunakan Statsmodel*
 
