@@ -74,9 +74,9 @@ berbagai materi berikut:
 Untuk memahami ML, selain memerlukan pemahaman dasar-dasar matematika dan statistika seperti di atas, diperlukan juga pemahaman berbagai malam pustaka dasar dari Python yang digunakan untuk keperluan mulai dari penyiapan data, presentasi data (dalam bentuk visual), serta proses ML itu sendiri. Materi tentang ML akan dimulai dari berbagai pustaka yang diperlukan untuk dasar-dasar pemrograman ML menggunakan Python:
 
 1. [NumPy](https://numpy.org/): pustaka untuk pengolahan matriks, array dengan N-dimensi, serta berbagai fungsi yang terkait dengan aljabar linear, transformasi Fourier, serta angka acak (*random*).
-2. [SciPy](https://scipy.org/scipylib/index.html): pustaka untuk komputasi ilmiah - integrasi numerik, interpolasi, optimisasi, aljabar linear, dan statistika.
-3. [Pandas](https://pandas.pydata.org/): untuk eksporasi dan penyiapan data.
-4. Visualisasi data menggunakan [Matplotlibi](https://matplotlib.org/) dan [Seaborn](https://seaborn.pydata.org/index.html).
+2. Visualisasi data menggunakan [Matplotlibi](https://matplotlib.org/). Jika menginginkan fasiltas yang lebih banyak, bisa mempelajari [Seaborn](https://seaborn.pydata.org/index.html).
+3. [SciPy](https://scipy.org/scipylib/index.html): pustaka untuk komputasi ilmiah - integrasi numerik, interpolasi, optimisasi, aljabar linear, dan statistika.
+4. [Pandas](https://pandas.pydata.org/): untuk eksporasi dan penyiapan data.
 5. [Statsmodel](http://www.statsmodels.org/stable/index.html): pustaka dengan fondasi NumPy dan SciPy yang menyediakan berbagai kelas dan fungsi untuk keperluan estimasi berbagai model statistika, melaksanakan uji statistika, serta eksplorasi data statistika.
 
 [Minggu 02](isi/02.md)
