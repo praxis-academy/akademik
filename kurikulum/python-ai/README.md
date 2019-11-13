@@ -105,6 +105,11 @@ Untuk memahami ML, selain memerlukan pemahaman dasar-dasar matematika dan statis
 
 *Hari 4: Eksplorasi dan Penyiapan Data Menggunakan Pandas*
 
+1. Instalasi Pandas
+2. Ruang lingkup Pandas
+3. Ekosistem Pandas
+4. Struktur data dan fungsionalitas dasar dari Pandas
+5. Penggunaan Pandas untuk penyiapan data
 
 *Hari 5: Model dan Analisis Statistika Menggunakan Statsmodel*
 
