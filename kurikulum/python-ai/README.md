@@ -111,8 +111,13 @@ Untuk memahami ML, selain memerlukan pemahaman dasar-dasar matematika dan statis
 4. Struktur data dan fungsionalitas dasar dari Pandas
 5. Penggunaan Pandas untuk penyiapan data
 
-*Hari 5: Model dan Analisis Statistika Menggunakan Statsmodel*
+*Hari 5: Model dan Analisis Statistika Menggunakan Statsmodels*
 
+1. Instalasi Statsmodels
+2. Ruang lingkup Statsmodels
+3. Konsep dan dasar Statsmodels
+4. Data dan datasets
+5. Regresi Linier
 
 **Catatan**
 
