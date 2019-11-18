@@ -132,7 +132,11 @@ Pembelajaran terkait pustaka esensial ini sebenarnya relatif banyak. Materi-mate
 
 [Minggu 03](isi/03.md)
 
-*Hari 1:*
+*Hari 1: Datasets untuk Machine Learning*
+
+1. Pengertian datasets
+2. Datasets yang telah tersedia
+3. Mengelola datasets
 
 *Hari 2:*
 
