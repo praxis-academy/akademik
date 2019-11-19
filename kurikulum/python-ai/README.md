@@ -138,7 +138,11 @@ Pembelajaran terkait pustaka esensial ini sebenarnya relatif banyak. Materi-mate
 2. Datasets yang telah tersedia
 3. Mengelola datasets
 
-*Hari 2:*
+*Hari 2: Pengenalan Machine Learning dan Scikit Learn*
+
+1. AI, Machine Learning dan ruang lingkupnya
+2. Instalasi scikit-learn
+3. Pengenalan problem Machine Learning: *supervised learning*
 
 *Hari 3:*
 
