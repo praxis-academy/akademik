@@ -13,10 +13,10 @@
 
 *Hari 2: Struktur Data*
 
-1. *Java Collections Framework*.
 2. Serialisasi dan de-serialisasi.
 3. Serialisasi data: XML dan JSON.
 4. Struktur data dasar di Java menggunakan paket *java utility*.
+4. *Java Collections Framework*.
 
 *Hari 3: Pola Pikir Obyek, Tooling, Typing Discipline dan Penanganan Error*
 
@@ -92,7 +92,7 @@
 6. WeakMap dan WeakSet
 7. Date dan Time
 
-*Hari 3: Function dan Struktur Data di JavaScript*
+*Hari 3: Paradigma Pemrograman di JavaScript*
 
 1. OOP di JavaScript: prototype-based dan class-based.
 2. Functional Programming.
